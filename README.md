@@ -1,8 +1,9 @@
 # jekyll_centrarium_now
 
 centrarium 형님이 만드신 테마에 태그기능이 없어서 추가함.
+https://github.com/bencentra/centrarium
+
 ![screen shot1](/assets/ss1.png "screen shot1")
-![screen shot2](/assets/ss2.png "screen shot2")
 ![screen shot3](/assets/ss3.png "screen shot3")
 
 # Quick Start
