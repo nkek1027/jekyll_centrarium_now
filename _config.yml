@@ -14,11 +14,11 @@ exclude:
 
 # todo_now (change as yours)
 # Site settings
-title: sangmook on software
-subtitle: "A weblog by sangmook, a programmer working in Seungnam City, about software and lifehack."
-email: tech4human.ksm@gmail.com
-name: iloveilmare
-description: sangmook on software
+title: eunkyung on software
+subtitle: "A weblog by eunkyung, a programmer working in Seungnam City, about software and life."
+email: skarnd88@gmail.com
+name: nkek1027
+description: eunkyung on software
 # todo_now
 
 # Base URL of site (i.e. /blog). It should always start with a slash,
