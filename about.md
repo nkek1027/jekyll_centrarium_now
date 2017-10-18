@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}/assets/8291.jpg" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/8291.jpg" title="Profile Picture" width="100px" height="70px" class="profile">
 # todo_now
 1. 개발자 일기
 2. 자기 소개 등등 etc..
