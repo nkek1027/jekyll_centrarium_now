@@ -89,8 +89,8 @@ social:
 
   - name: GitHub
     icon: github
-    username: iloveilmare
-    url: https://github.com/iloveilmare
+    username: nkek1027
+    url: https://github.com/nkek1027
     desc: Fork me on GitHub
     share: false
 
@@ -197,7 +197,7 @@ protocols:
     twitter_image: "/assets/logo.png"
 
 # todo_now (change as yours)
-    os_repo: "https://github.com/iloveilmare/"
+    os_repo: "https://github.com/nkek1027/"
     os_rcs_type: "git"
     os_src: "git@github.com:iloveilmare/jekyll_centrarium_now.git"
 # todo_end
