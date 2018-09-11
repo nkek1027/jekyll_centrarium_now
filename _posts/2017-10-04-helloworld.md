@@ -61,8 +61,8 @@ apollo-codegen introspect-schema http://yourserver/graphql --output 프로젝트
 
 테일리와 같이 쉘파일을 만들어 구동할 경우 아래와 같이 참고하시면 됩니다.
 ```
-apollo-codegen introspect-schema http://dev.gql.tailly.naver.com/graphql --output ./app/src/main/graphql/com.navercorp.android.pet/schema.json
-(apollo schema:download --endpoint=http://dev.gql.tailly.naver.com/graphql ./app/src/main/graphql/com.navercorp.android.pet/schema.json)
+apollo-codegen introspect-schema http://주소/graphql --output ./app/src/main/graphql/com.navercorp.android.pet/schema.json
+(apollo schema:download --endpoint=http://주소/graphql ./app/src/main/graphql/com.navercorp.android.pet/schema.json)
 ```
 
 ### 2.1.4 서버와 연결
@@ -71,13 +71,11 @@ apollo-codegen introspect-schema http://dev.gql.tailly.naver.com/graphql --outpu
 이런식으로 개발해야함.)
 이하 고통을 생략하고
 
-Tailly의 경우 예를들어 (프로젝트 사용언어 : Kotlin)
-
 ```
 
  object PetApolloClient {
 
-    private val BASE_URL: String = "http://dev.gql.tailly.naver.com/graphql"
+    private val BASE_URL: String = "http://주소/graphql"
     private lateinit var petApolloClient: ApolloClient
 
     fun getPetApolloClient(): ApolloClient {
@@ -104,7 +102,7 @@ GraphQL 요청에는 query (analogue of GET), mutation (analogue of POST, PUT) �
 ![old_graphql_query_file](https://media.oss.navercorp.com/user/7526/files/9bd46f80-aa24-11e8-9f7c-e35354370daa)
 
 다음과 같이 폴더 안에 .graphql 파일을 생성하여 쿼리문을 작성해 준다. 
-일반 apollo graphql은 .graphql 파일 내에 자동완성 기능이 제공되지 않아 http://dev.gql.tailly.naver.com/graphiql  서버에서 제공해주는 **GraphiQL**을 이용하여 쿼리문을 긇어 복사하여 붙여주는 형식으로 코딩을 하게 된다. Graph**i**QL(i가 들어가있음)은 swagger처럼 쿼리를 자동완성으로 만들어 볼수 있고 콜을 보내면 결과값을 받을 수 있는 툴을 말함.
+일반 apollo graphql은 .graphql 파일 내에 자동완성 기능이 제공되지 않아 http://주소/graphiql  서버에서 제공해주는 **GraphiQL**을 이용하여 쿼리문을 긇어 복사하여 붙여주는 형식으로 코딩을 하게 된다. Graph**i**QL(i가 들어가있음)은 swagger처럼 쿼리를 자동완성으로 만들어 볼수 있고 콜을 보내면 결과값을 받을 수 있는 툴을 말함.
 
 ******
 
