@@ -52,13 +52,10 @@ npm install apollo-codegen
 apollo-codegen introspect-schema http://yourserver/graphql --output 프로젝트경로/schema.json
 (apollo schema:download http://yourserver/graphql 프로젝트경로/schema.json 를 사용하면 추후에 생성되는 Schema.json파일이 컴파일시 Getting “error: GraphQL schema file should contain a valid GraphQL introspection query result” after apollo schema:download 라는 에러를 발생하는 이슈가 있음.)
 ```
-테일리앱의 경우 쉘파일을 실행만 하면 되도록 만듬. 
-(실행 전 app/src/main/graphql/com.navercorp.android.pet 폴더 생성후 쉘파일 실행 필요)
 
 서버에서 필드명 혹은 api변경시 최신 스키마를 shell명령어를 통해 업데이트해줘야 하므로 app내에 스크립트 파일을 만듬.
 
-![script_shell](https://media.oss.navercorp.com/user/7526/files/54801204-ac83-11e8-9486-30fd9ba056ea)
-![2018-08-28 5 35 51](https://media.oss.navercorp.com/user/7526/files/34881460-aae9-11e8-9316-be4415d4add7)
+[그림]
 
 해당 스크립트를 실행하면 프로젝트내에 shema.json 파일이 생성됨.
 
@@ -134,45 +131,45 @@ GraphQL 요청에는 query (analogue of GET), mutation (analogue of POST, PUT) �
 
     https://github.com/jimkyndemeyer/js-graphql-intellij-plugin/raw/v2/alpha-releases/updatePlugins.xml
     
-![2018-08-27 6 16 37](https://media.oss.navercorp.com/user/7526/files/65c9ae7c-aa25-11e8-9fbf-a4476b5bac39)
+[그림]
 
 ### 3.2.3 graphQL config file setting
     https://github.com/prisma/graphql-config
     
 
-![graph_config_folder](https://media.oss.navercorp.com/user/7526/files/89d467ea-aa24-11e8-8568-1a13acaf9501)
+[그림]
 
-![graphql_config_content](https://media.oss.navercorp.com/user/7526/files/7fa44f10-aa24-11e8-9848-0f7a6d3e7b96)
+[그림]
 왼쪽 화살표를 클릭하면 schema.graphql 파일이 생성됨.
 
-![schema_graph_ql](https://media.oss.navercorp.com/user/7526/files/5d484e30-aa24-11e8-89d3-3947940143cc)
+[그림]
 
 schema.json은 Apollo graphql 라이브러리가 사용하는 파일이고 schema.graphql 파일은 안드로이드 개발자가 쿼리문을 자동완성으로 쉽게 쓰기 위한 파일이다 동일한 내용이지만 확장자가 달라 내부 구조가 다르다. 
 schema.json은 Apollo graphql 라이브러리에서 사용하므로 빌드가 함께 이루어져야하는 파일이지만 schema.graphql는 쿼리문을 작성할때 필요한 파일로 빌드할때 필요한 파일이 아니다. 그리고 두가지를 모두 빌드를 하면 android studio에서 validation 에러가 떨어지며 빌드 에러가 발생한다.
 그러므로 schema.graphql 파일은 빌드시 제외 되도록 res 폴더에 보관하는 것으로 한다.
 
-![link_server_url](https://media.oss.navercorp.com/user/7526/files/761aa476-aa24-11e8-8f32-08570927c79b)
+[그림]
 
 쿼리 예시문 (getMySelfAndMyHistoryFeed.graphql는 생성한 예문 - 각 필요에 따라 파일을 생성하여 작성하면 됨)
 
-![link_server_url](https://media.oss.navercorp.com/user/7526/files/cc6a62d8-abb6-11e8-9789-958e811300b8)
+[그림]
 
 apollo graphQL 라이브러리만 사용했을때(2.1.5 캡처사진 참고)에는 같은 getMySelfAndMyHistoryFeed.graphql 파일이지만 api및 필드가 자동완성이 되지 않고 마지 텍스트 파일에 코딩을 하는것과 마찬가지의 불편함이 있었는데 위에 쿼리문 캡체사진을 보면 색깔별 분리와 각 api와 해당 필드가 자동완성이 되는 것을 확인 할 수 있다.
 
 
 
 
-![2018-08-27 6 40 26](https://media.oss.navercorp.com/user/7526/files/b7cea440-aa28-11e8-990b-7fe620e80dd0)
+[그림]
 apolloClient를 이용해 작성한 쿼리를 실행하고 원하는 결과값만 얻어온다.
 
 * Schema.json과 Schema.graphql 은 자동 생성 파일로 이부분은 수정 변경하지 않도록 합니다.(Schema.graphql에서 Long자료형이 빨갛게 표시된 부분은 무시해도 됩니다. 쿼리 자동완성을 위한 파일이기때문에 컴파일에 무관.) 단, ApolloClient는 스칼라 자료형을 기반으로 하기때문에 Long type을 object로 가져옵니다. 그래서 이에 맞게 형변환을 클라이언트에서 해줘야합니다. 
 [공식문서 3.1.1.1Int 섹션 Note 참조](http://facebook.github.io/graphql/October2016/#sec-Int)
 
 addCustomTypeAdapter라는 함수를 통해 받아올때(decode) 형변환을 해주고 값을 보낼때(encode) 한번 더 형변환을 해주게 됩니다.
-![2018-09-04 6 44 13](https://media.oss.navercorp.com/user/7526/files/96062108-b072-11e8-9bc7-a192f0c4fdb0)
+[그림]
 
 결과 응답값 역시 Apollo에서 Long을 Object로 주기 때문에 지져분하지만 두번의 파싱을 통해 Long값을 가져 옵니다. object라 표시됨은 보통 스칼라에 없는 자료형이 올때 인데 테일리의 경우 Schema.graphql에서 보다시피 인식 되지 않은 자료형은 Long값뿐이라 .toString().toLong을 진행해 줍니다. 단 다른 프로젝트의 경우 자바에서는 제공되지만 스칼라의 자료형이 제공되지 않은 double이라던지 기타 자료형의 경우 각 상황에 맞게 커스텀을 진행해줘야 합니다.
-![2018-09-04 6 49 34](https://media.oss.navercorp.com/user/7526/files/7afb571a-b073-11e8-9c28-e2978d3e2fa0)
+[그림]
 
 물론, Apollo-graphql의 1.1.0-alpha버전 노트에 (#901)이슈로 "Fix mapping of GraphQl Int type to Java int type instead of Long" 
 해결한 것으로 나오지만 addCustomTypeAdapter를 사용하지 않고 바로 사용하는 경우가 없는 것으로 보임(바로 Long type을 사용하시는 분은 연락주세요!)
