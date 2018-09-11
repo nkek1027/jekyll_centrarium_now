@@ -99,7 +99,7 @@ PetApolloClient라는 유틸성 클래스를 통해 graphql 용으로 만들어 
 GraphQL 요청에는 query (analogue of GET), mutation (analogue of POST, PUT) 및 subscription의 세 가지 유형이 있다.
 요청 구축을 위해 .graphql 확장명을 가진 파일을 만들어야한다. 이 파일에는 모든 쿼리, 변이, 구독 및 조각 (요청에 사용할 수있는 필드 집합이있는 재사용 된 블록)이 모여 있다. examplequeries.graphql과 같은 이름을 생각해 볼 수 있다.(각 사용처에 맞게 쿼리 문서를 나눠서 하거나 한 파일에 여러 쿼리를 넣어도 됨.) 그러나 java 폴더와 동일한 레벨의 src / main / graphq 폴더에 파일을 저장해야한다.
 
-![old_graphql_query_file](https://media.oss.navercorp.com/user/7526/files/9bd46f80-aa24-11e8-9f7c-e35354370daa)
+[그림]
 
 다음과 같이 폴더 안에 .graphql 파일을 생성하여 쿼리문을 작성해 준다. 
 일반 apollo graphql은 .graphql 파일 내에 자동완성 기능이 제공되지 않아 http://주소/graphiql  서버에서 제공해주는 **GraphiQL**을 이용하여 쿼리문을 긇어 복사하여 붙여주는 형식으로 코딩을 하게 된다. Graph**i**QL(i가 들어가있음)은 swagger처럼 쿼리를 자동완성으로 만들어 볼수 있고 콜을 보내면 결과값을 받을 수 있는 툴을 말함.
