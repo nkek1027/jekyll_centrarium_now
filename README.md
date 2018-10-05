@@ -1,2 +1,2 @@
-# jekyll_centrarium_now
+# 개인 개발 및 라이프 블로그
 
