@@ -4,7 +4,7 @@ title:  RX Java
 date:   "2018-10-10 19:10:59"
 author: eunkyung
 categories: Software
-tag: RX Java
+tag: RXJava
 cover:  "/assets/rxjava_image.png"
 ---
 
