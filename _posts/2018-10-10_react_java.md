@@ -5,7 +5,7 @@ date:   "2018-10-10 19:10:59"
 author: eunkyung
 categories: Software
 tag: RX Java
-cover:  "/assets/dagger2_back_image.png"
+cover:  "/assets/rxjava_image.png"
 ---
 
 # 리액트 프로그래밍
