@@ -5,7 +5,7 @@ date:   "2018-9-02 11:10:59"
 author: eunkyung
 categories: Lifehack
 tag: graphql
-cover:  "/assets/graphql.png"
+cover:  "/assets/graphql_image.jpeg"
 ---
 
 # 1. GraphQL에 관하여
