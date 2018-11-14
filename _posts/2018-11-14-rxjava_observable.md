@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  RX Java : Observable
-date:   "2018-11-14 08:10:06"
+title:  "Rx Java - Observable"
+date:   2015-04-18 08:43:59
 author: eunkyung
 categories: Software
-tag: RX Java
-cover:  "/assets/rxjava_image.png"
+tags:	RX Java
+cover:  "/assets/instacode.png"
 ---
+
 
 #### Observable
 옵저버 패턴을 구현. 옵저버 패턴(대표적인 예 : onClick 메소드)은 객체의 상태 변화를 관찰하는 관찰자(옵저버) 목록을 객체에 등록한다. 그리고 상태 변화가 있을 때마다 메서드를 호출하여 객체가 직접 목록의 각 옵저버에게 변화를 알려준다. 라이프 사이클은 존재하지 않으며 보통 단일 함수를 통해 변화를 알림. 옵저버블 네이밍의 의미는 "현재는 관찰되지 않았지만 이론을 통해서 앞으로 관찰할 가능성을 의미한다."이다.
