@@ -4,7 +4,7 @@ title:  RX Java : Observable
 date:   "2018-10-10 19:10:59"
 author: eunkyung
 categories: Software
-tag: RX Java, Observable
+tag: RX Java
 cover:  "/assets/rxjava_image.png"
 ---
 
