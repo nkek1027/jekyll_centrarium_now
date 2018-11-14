@@ -4,7 +4,7 @@ title:  "Rx Java - Observable"
 date:   2015-04-18 08:43:59
 author: eunkyung
 categories: Software
-tags:	RX Java
+tags:	"RX Java"
 cover:  "/assets/rxjava_image.png"
 ---
 
