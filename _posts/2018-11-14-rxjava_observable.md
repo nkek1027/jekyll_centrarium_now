@@ -21,9 +21,12 @@ Rxjava의 Observable은 세가지의 알림을 구독자에게 전달한다.
 ```
 1. onNext : Observable이 데이터의 발행을 알림. 기존의 옵저버 패턴과 동일.
 
-2. onComplete : 모든 데이터의 발행을 완료했음을 알림. onComplete 이벤트는 단 한번만 발생. 발생한 후에는 더 이상 noNext 이벤트가 발생해선 안됨. 
+2. onComplete : 모든 데이터의 발행을 완료했음을 알림. onComplete 이벤트는 단 한번만 발생. 
+                발생한 후에는 더 이상 noNext 이벤트가 발생해선 안됨. 
 
-3. onError : Observable에서 어떤 이유로 에러가 발생할 때 알림. onError 이벤트가 발생하면 이후에 onNext 및 onComplete 이벤트가 발생하지 않음. 즉, Observable의 실행을 종료.
+3. onError : Observable에서 어떤 이유로 에러가 발생할 때 알림. 
+             onError 이벤트가 발생하면 이후에 onNext 및 onComplete 이벤트가 발생하지 않음. 
+             즉, Observable의 실행을 종료.
 ```
 Observable을 생성할 때는 직접 인스턴스를 만들지 않고 정적 팩토리 함수를 호출.
 
