@@ -1,3 +1,13 @@
+---
+layout: post
+title:  React Native : 기본 이론
+date:   "2018-09-11 19:10:59"
+author: eunkyung
+categories: Software
+tag: ReactNative
+cover:  "/assets/React-Native-Titre.png"
+---
+
 ## 기본적으로 알아야 할 것들
 * JSX
 * 리액트 컴포넌트
