@@ -4,7 +4,7 @@ title:  React Native : 기본 이론
 date:   "2018-09-11 19:10:59"
 author: eunkyung
 categories: Software
-tag: ReactNative
+tag: reactnative
 cover:  "/assets/React-Native-Titre.png"
 ---
 
