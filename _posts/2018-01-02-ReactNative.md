@@ -1,3 +1,13 @@
+---
+layout: post
+title:  React Native Project 생성하기
+date:   "2019-01-02 10:11:29"
+author: eunkyung
+categories: Software
+tag: reactnative
+cover:  "/assets/React-Native-Titre.png"
+---
+
 ## React Native 실전: Hello World
 
 #### 루트 컴포넌트 등록
