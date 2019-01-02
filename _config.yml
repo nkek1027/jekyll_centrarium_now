@@ -51,7 +51,7 @@ disqus_shortname:
 # Category descriptions (for archive pages)
 descriptions:
   - cat: Software
-    desc: "android, java, kotlin, etc.."
+    desc: "android, java, kotlin, react native, etc.."
 
   - cat: Lifehack
     desc: "programs, devices, ideas for personal use"
