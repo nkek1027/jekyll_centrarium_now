@@ -1,6 +1,6 @@
-##React Native 실전: Hello World
+## React Native 실전: Hello World
 
-####루트 컴포넌트 등록
+#### 루트 컴포넌트 등록
 ```
 AppRegistry.registerComponent(appName, () => FoodHome);
 ```
@@ -14,7 +14,7 @@ return React.createElement(Text, null, 'Hello World');
 보는 바와 같이 바벨은 자동으로 JSX 코드를 React.createElement 구문으로 변환한다. 이게 바로 JSX를 사용하는 소스코드에서 항상 React 객체를 임포트해야하는 이유이다.
 -> 요약 : 리액트패키저가 트랜스파일할때 React.createElement와 같이 React 객체를 직접사용하기 때문에 필요.
 
-####디버깅 하는 방법
+#### 디버깅 하는 방법
 리액트 네이티브 앱을 디버깅할 때, 그 앱은 프록시 모드(proxy mode)로 구동된다. 이는 앱의 자바스크립트가 디바이스나 시뮬레이터의 자바스크립트코어 엔진이 아닌, 크롬 V8 자바스크립트 엔진에서 실행된다는 의미다. 그런 다음 리액트 네이티브 패키저는 앱과 크롬 사이의 통신을 웹 소캣을 사용해 중개한다.
 방법 : 크롬디버거를 이용해야 함. 
 1. 앱의 옵션을 활성(command + d)하여 Debug JS Remotely를 선택
