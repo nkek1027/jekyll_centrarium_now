@@ -2,128 +2,169 @@
   "details": [
     {
       "no": "01",
-      "time": "13:00 ~ 13:40",
-      "title": "111111",
       "who": [
         {
-          "name": "샘플1",
-          "company": "샘플1",
-          "photo": "https://nkek1027.github.io/assets/profile.jpg",
-          "profile": "샘플1"
+          "name": "여성(36세)",
+          "country": "중국",
+          "woo": "우한 거주 여행객,인천공항(1/19)",
+          "date": "1월 21일",
+          "hospital": "인천의료원",
+          "etc": ""
         }
       ],
-      "overview": "가집니다.",
-      "contents": "방법",
-      "url": "https://askers.io/channels/techcon1907_11/posts"
-    },
-    {
-      "no": "02",
-      "time": "14:00 ~ 14:40",
-      "title": "이야기",
-      "who": [
-        {
-          "name": "김",
-          "company": "트",
-          "photo": "https://nkek1027.github.io/assets/profile.jpg",
-          "profile": "구조의 코드를 지향합니다."
-        }
-      ],
-      "overview": "아키텍쳐, 패턴에서 모델은 빠지지 않고 등장합니다. 쉬워 보이지만 또 어렵기도 한 모델에 관하여 예제에는 잘 보이지 않는 내용들을 공유하려 합니다.",
+      "overview": "",
       "contents": "",
-      "url": "https://askers.io/channels/techcon1907_12/posts"
+    },
+     {
+      "no": "02",
+      "who": [
+        {
+          "name": "남성(55세)",
+          "country": "한국",
+          "woo": "우한 거주, 우한->상하이->김포공항(1/22)",
+          "date": "1월 24일",
+          "hospital": "국립중앙의료원",
+          "etc": ""
+        }
+      ],
+      "overview": "",
+      "contents": "",
     },
     {
       "no": "03",
-      "time": "14:50 ~ 15:30",
-      "title": "로드맵",
       "who": [
         {
-          "name": "안",
-          "company": "웹툰",
-          "photo": "https://nkek1027.github.io/assets/profile.jpg",
-          "profile": "심이 많습니다."
+          "name": "남성(54세)",
+          "country": "한국",
+          "woo": "우한 거주, 일시 귀국(1/20)",
+          "date": "1월 26일",
+          "hospital": "경기 명지병원",
+          "etc": ""
         }
       ],
-      "overview": "공유합니다.",
+      "overview": "",
       "contents": "",
-      "url": "https://askers.io/channels/techcon1907_13/posts"
     },
     {
       "no": "04",
-      "time": "15:50 ~ 16:30",
-      "title": "드",
       "who": [
         {
-          "name": "양석",
-          "company": "le",
-          "photo": "https://nkek1027.github.io/assets/profile.jpg",
-          "profile": ""
+          "name": "남성(55세)",
+          "country": "한국",
+          "woo": "우한 -> 인천공한(1/20)",
+          "date": "1월 27일",
+          "hospital": "분당 서울대병원",
+          "etc": ""
         }
       ],
-      "overview": "살펴봅니다.",
+      "overview": "",
       "contents": "",
-      "url": "https://askers.io/channels/techcon1907_14/posts"
     },
-    {
+   {
       "no": "05",
-      "time": "16:40 ~ 17:20",
-      "title": "무엇이든 물어 보세요. \nfeat. 모바일 개발, 기획, 디자인의 모든 것",
       "who": [
         {
-          "name": "신",
-          "company": "웹툰",
-          "photo": "https://nkek1027.github.io/assets/profile.jpg",
-          "profile": "다."
-        },
-        {
-          "name": "석",
-          "company": "웹툰",
-          "photo": "https://nkek1027.github.io/assets/profile.jpg",
-          "profile": "담당."
-        },
-        {
-          "name": "조현",
-          "company": "7",
-          "photo": "https://nkek1027.github.io/assets/profile.jpg",
-          "profile": "있다."
+          "name": "남성(32세)",
+          "country": "한국",
+          "woo": "우한 -> 인천공한(1/22)",
+          "date": "1월 30일",
+          "hospital": "서울의료원",
+          "etc": ""
         }
       ],
-      "overview": "시간",
+      "overview": "",
       "contents": "",
-      "url": "https://askers.io/channels/techcon1907_15/posts"
     },
-    {
+     {
       "no": "06",
-      "time": "17:30 ~ 17:55",
-      "title": "카메라",
       "who": [
         {
-          "name": "환",
-          "company": "버",
-          "photo": "https://nkek1027.github.io/assets/profile.jpg",
-          "profile": "있습니다."
+          "name": "남성(56세)",
+          "country": "한국",
+          "woo": "방문 이력없음(2차감염자)",
+          "date": "1월 30일",
+          "hospital": "서울대병원",
+          "etc": "지인 3번환자와 식사"
         }
       ],
-      "overview": "분",
+      "overview": "",
       "contents": "",
-      "url": "https://askers.io/channels/techcon1907_16/posts"
+    },
+     {
+      "no": "07",
+      "who": [
+        {
+          "name": "남성(28세)",
+          "country": "한국",
+          "woo": "우한->청도->인천공항",
+          "date": "1월 30일",
+          "hospital": "서울의료원",
+          "etc": ""
+        }
+      ],
+      "overview": "",
+      "contents": "",
     },
     {
-      "no": "07",
-      "time": "17:55 ~ 18:20",
-      "title": "앱",
+      "no": "08",
       "who": [
         {
-          "name": "환",
-          "company": "버",
-          "photo": "https://nkek1027.github.io/assets/profile.jpg",
-          "profile": "를 지향합니다."
+          "name": "여성(62세)",
+          "country": "한국",
+          "woo": "청도->인천공항(1/23)",
+          "date": "1월 31일",
+          "hospital": "원광대병원",
+          "etc": ""
         }
       ],
-      "overview": "살펴봅니다.",
+      "overview": "",
       "contents": "",
-      "url": "https://askers.io/channels/techcon1907_17/posts"
-    }
+    },
+    {
+      "no": "09",
+      "who": [
+        {
+          "name": "-",
+          "country": "한국",
+          "woo": "방문 이력없음(2차감염자)",
+          "date": "1월 33일",
+          "hospital": "서울대병원",
+          "etc": "지인 5번환자와 식사"
+        }
+      ],
+      "overview": "",
+      "contents": "",
+    },
+    {
+      "no": "10",
+      "who": [
+        {
+          "name": "-",
+          "country": "한국",
+          "woo": "방문 이력없음(3차감염자)",
+          "date": "1월 31일",
+          "hospital": "서울대병원",
+          "etc": "6번 환자 가족"
+        }
+      ],
+      "overview": "",
+      "contents": "",
+    },
+    {
+      "no": "11",
+      "who": [
+        {
+          "name": "-",
+          "country": "한국",
+          "woo": "방문 이력없음(3차감염자)",
+          "date": "1월 31일",
+          "hospital": "서울대병원",
+          "etc": "6번 환자 가족"
+        }
+      ],
+      "overview": "",
+      "contents": "",
+    },
   ],
   "live_url": "https://nkek1027.github.io/",
   "start_time": "12:30 ~ 13:00",
