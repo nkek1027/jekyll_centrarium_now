@@ -242,30 +242,136 @@
     }
   ],
   "live_url": "http://www.cdc.go.kr/linkCheck.es?mid=a21111050500",
-  "china": "17,205(361)",
-  "hongkong": "14",
-  "taipe": "10",
-  "macau": "10",
-  "thailand": "19",
-  "singapore": "18",
-  "japan": "15",
-  "vietnam": "7",
-  "nepal": "1",
-  "malaysia": "8",
-  "cambodia": "1",
-  "srilanka": "1",
-  "arab": "5",
-  "india": "2",
-  "philippines": "2(1)",
-  "usa": "8",
-  "canada": "4",
-  "france": "6",
-  "germany": "8",
-  "finland": "1",
-  "italy": "2",
-  "uk": "2",
-  "russia": "2",
-  "sweden": "1",
-  "spain": "1",
-  "australia": "12"
+  "trends": [
+    {
+      "country": "중국",
+      "patient": "17,205",
+      "dead": "361"
+    },
+    {
+      "country": "홍콩",
+      "patient": "14",
+      "dead": "0"
+    },
+    {
+      "country": "대만",
+      "patient": "10",
+      "dead": "0"
+    },
+    {
+      "country": "마카오",
+      "patient": "8",
+      "dead": "0"
+    },
+    {
+      "country": "태국",
+      "patient": "19",
+      "dead": "0"
+    },
+    {
+      "country": "싱가포르",
+      "patient": "18",
+      "dead": "0"
+    },
+    {
+      "country": "일본",
+      "patient": "15",
+      "dead": "0"
+    },
+    {
+      "country": "베트남",
+      "patient": "7",
+      "dead": "0"
+    },
+    {
+      "country": "네팔",
+      "patient": "1",
+      "dead": "0"
+    },
+    {
+      "country": "말레이시아",
+      "patient": "8",
+      "dead": "0"
+    },
+    {
+      "country": "캄보디아",
+      "patient": "1",
+      "dead": "0"
+    },
+    {
+      "country": "스리랑카",
+      "patient": "1",
+      "dead": "0"
+    },
+    {
+      "country": "아랍에미리트",
+      "patient": "5",
+      "dead": "0"
+    },
+    {
+      "country": "인도",
+      "patient": "2",
+      "dead": "0"
+    },
+    {
+      "country": "필리핀",
+      "patient": "2",
+      "dead": "1"
+    },
+    {
+      "country": "미국",
+      "patient": "8",
+      "dead": "0"
+    },
+    {
+      "country": "캐나다",
+      "patient": "4",
+      "dead": "0"
+    },
+    {
+      "country": "프랑스",
+      "patient": "6",
+      "dead": "0"
+    },
+    {
+      "country": "독일",
+      "patient": "8",
+      "dead": "0"
+    },
+    {
+      "country": "필란드",
+      "patient": "1",
+      "dead": "0"
+    },
+    {
+      "country": "이탈리아",
+      "patient": "2",
+      "dead": "0"
+    },
+    {
+      "country": "영국",
+      "patient": "2",
+      "dead": "0"
+    },
+    {
+      "country": "러시아",
+      "patient": "2",
+      "dead": "0"
+    },
+    {
+      "country": "스웨덴",
+      "patient": "1",
+      "dead": "0"
+    },
+    {
+      "country": "스페인",
+      "patient": "1",
+      "dead": "0"
+    },
+    {
+      "country": "호주",
+      "patient": "12",
+      "dead": "0"
+    }
+  ]
 }
