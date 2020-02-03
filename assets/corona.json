@@ -9,7 +9,7 @@
           "woo": "우한 거주 여행객,인천공항(1/19)",
           "date": "1/21",
           "hospital": "인천의료원",
-          "people" : "45",
+          "people": "45",
           "etc": ""
         }
       ],
@@ -25,7 +25,7 @@
           "woo": "우한 거주, 우한->상하이->김포공항(1/22)",
           "date": "1/24",
           "hospital": "국립중앙의료원",
-          "people" : "75",
+          "people": "75",
           "etc": ""
         }
       ],
@@ -41,7 +41,7 @@
           "woo": "우한 거주, 일시 귀국(1/20)",
           "date": "1/26",
           "hospital": "경기 명지병원",
-          "people" : "95",
+          "people": "95",
           "etc": ""
         }
       ],
@@ -57,7 +57,7 @@
           "woo": "우한 -> 인천공한(1/20)",
           "date": "1/27",
           "hospital": "분당 서울대병원",
-          "people" : "172",
+          "people": "172",
           "etc": ""
         }
       ],
@@ -73,7 +73,7 @@
           "woo": "우한 -> 인천공한(1/22)",
           "date": "1/30",
           "hospital": "서울의료원",
-          "people" : "33",
+          "people": "33",
           "etc": ""
         }
       ],
@@ -89,7 +89,7 @@
           "woo": "방문 이력없음(2차감염자)",
           "date": "1/30",
           "hospital": "서울대병원",
-          "people" : "25",
+          "people": "25",
           "etc": "지인 3번환자와 식사"
         }
       ],
@@ -105,7 +105,7 @@
           "woo": "우한->청도->인천공항",
           "date": "1/31",
           "hospital": "서울의료원",
-          "people" : "21",
+          "people": "21",
           "etc": ""
         }
       ],
@@ -121,7 +121,7 @@
           "woo": "청도->인천공항(1/23)",
           "date": "1/31",
           "hospital": "원광대병원",
-          "people" : "72",
+          "people": "72",
           "etc": ""
         }
       ],
@@ -137,7 +137,7 @@
           "woo": "방문 이력없음(2차감염자)",
           "date": "1/31",
           "hospital": "서울대병원",
-          "people" : "2",
+          "people": "2",
           "etc": "지인 5번환자와 식사"
         }
       ],
@@ -153,7 +153,7 @@
           "woo": "방문 이력없음(3차감염자)",
           "date": "1/31",
           "hospital": "서울대병원",
-          "people" : "2",
+          "people": "2",
           "etc": "6번 환자 가족"
         }
       ],
@@ -169,7 +169,7 @@
           "woo": "방문 이력없음(3차감염자)",
           "date": "1/31",
           "hospital": "서울대병원",
-          "people" : "",
+          "people": "",
           "etc": "6번 환자 가족"
         }
       ],
@@ -185,14 +185,13 @@
           "woo": "가이드 일본->19일 김포공항",
           "date": "2/1",
           "hospital": "분당 서울대병원",
-          "people" : "138",
+          "people": "138",
           "etc": "일본 확진자 접촉"
         }
       ],
       "overview": "",
       "contents": ""
-    }
-    ,
+    },
     {
       "no": "13",
       "who": [
@@ -202,14 +201,13 @@
           "woo": "",
           "date": "2/2",
           "hospital": "국립중앙의료원",
-          "people" : "",
+          "people": "",
           "etc": ""
         }
       ],
       "overview": "",
       "contents": ""
-    }
-    ,
+    },
     {
       "no": "14",
       "who": [
@@ -219,14 +217,13 @@
           "woo": "",
           "date": "2/2",
           "hospital": "분당 서울대병원",
-          "people" : "",
+          "people": "",
           "etc": "12번 확진자 가족"
         }
       ],
       "overview": "",
       "contents": ""
-    }
-     ,
+    },
     {
       "no": "15",
       "who": [
@@ -236,7 +233,7 @@
           "woo": "",
           "date": "2/2",
           "hospital": "국군수도병원",
-          "people" : "",
+          "people": "",
           "etc": ""
         }
       ],
@@ -250,25 +247,25 @@
   "taipe": "10",
   "macau": "10",
   "thailand": "19",
-   "singapore": "18",
-   "japan": "15",
+  "singapore": "18",
+  "japan": "15",
   "vietnam": "7",
-    "nepal": "1",
-     "malaysia": "8",
-   "cambodia": "1",
-   "srilanka": "1",
+  "nepal": "1",
+  "malaysia": "8",
+  "cambodia": "1",
+  "srilanka": "1",
   "arab": "5",
-   "india": "2",
-   "philippines": "2(1)",
-   "usa": "8",
-   "canada": "4",
+  "india": "2",
+  "philippines": "2(1)",
+  "usa": "8",
+  "canada": "4",
   "france": "6",
   "germany": "8",
   "finland": "1",
   "italy": "2",
-   "uk": "2",
-   "russia": "2",
-   "sweden": "1",
-   "spain": "1",
-  "australia": "12",
+  "uk": "2",
+  "russia": "2",
+  "sweden": "1",
+  "spain": "1",
+  "australia": "12"
 }
