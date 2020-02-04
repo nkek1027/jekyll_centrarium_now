@@ -239,18 +239,34 @@
       ],
       "overview": "",
       "contents": ""
+    },
+    {
+      "no": "16",
+      "who": [
+        {
+          "name": "여성(42)",
+          "country": "한국",
+          "woo": "",
+          "date": "2/4",
+          "hospital": "전남대병원",
+          "people": "",
+          "etc": "태국 여행다녀온 뒤 발생"
+        }
+      ],
+      "overview": "",
+      "contents": ""
     }
   ],
   "live_url": "http://www.cdc.go.kr/linkCheck.es?mid=a21111050500",
   "trends": [
     {
       "country": "중국",
-      "patient": "17,205",
-      "dead": "361"
+      "patient": "20,438",
+      "dead": "425"
     },
     {
       "country": "홍콩",
-      "patient": "14",
+      "patient": "15",
       "dead": "0"
     },
     {
@@ -275,12 +291,12 @@
     },
     {
       "country": "일본",
-      "patient": "15",
+      "patient": "16",
       "dead": "0"
     },
     {
       "country": "베트남",
-      "patient": "7",
+      "patient": "8",
       "dead": "0"
     },
     {
@@ -310,7 +326,7 @@
     },
     {
       "country": "인도",
-      "patient": "2",
+      "patient": "3",
       "dead": "0"
     },
     {
@@ -320,7 +336,7 @@
     },
     {
       "country": "미국",
-      "patient": "8",
+      "patient": "11",
       "dead": "0"
     },
     {
