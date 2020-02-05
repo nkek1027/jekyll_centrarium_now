@@ -256,52 +256,103 @@
       "overview": "",
       "contents": ""
     }
+    ,
+    {
+      "no": "17",
+      "who": [
+        {
+          "name": "남성(38)",
+          "country": "한국",
+          "woo": "",
+          "date": "2/5",
+          "hospital": "서울의료원",
+          "people": "",
+          "etc": "태국 여행다녀온 뒤 발생"
+        }
+      ],
+      "overview": "",
+      "contents": ""
+    }
+    ,
+    {
+      "no": "18",
+      "who": [
+        {
+          "name": "여성(21)",
+          "country": "한국",
+          "woo": "",
+          "date": "2/5",
+          "hospital": "전남대병원",
+          "people": "",
+          "etc": "16번 환자 딸"
+        }
+      ],
+      "overview": "",
+      "contents": ""
+    }
+    ,
+    {
+      "no": "19",
+      "who": [
+        {
+          "name": "남성(36)",
+          "country": "한국",
+          "woo": "",
+          "date": "2/5",
+          "hospital": "전남대병원",
+          "people": "",
+          "etc": "싱가포르 컨퍼런스 참석 후 발생"
+        }
+      ],
+      "overview": "",
+      "contents": ""
+    }
   ],
   "live_url": "http://www.cdc.go.kr/linkCheck.es?mid=a21111050500",
   "trends": [
     {
       "country": "대한민국",
-      "patient": 16,
-      "dead": 0
-    },
-    {
-      "country": "중국",
-      "patient": 20438,
-      "dead": 425
-    },
-    {
-      "country": "홍콩",
-      "patient": 15,
-      "dead": 0
-    },
-    {
-      "country": "대만",
-      "patient": 10,
-      "dead": 0
-    },
-    {
-      "country": "마카오",
-      "patient": 8,
-      "dead": 0
-    },
-    {
-      "country": "태국",
       "patient": 19,
       "dead": 0
     },
     {
-      "country": "싱가포르",
+      "country": "중국",
+      "patient": 24324,
+      "dead": 490
+    },
+    {
+      "country": "홍콩",
       "patient": 18,
+      "dead": 1
+    },
+    {
+      "country": "대만",
+      "patient": 11,
+      "dead": 0
+    },
+    {
+      "country": "마카오",
+      "patient": 10,
+      "dead": 0
+    },
+    {
+      "country": "태국",
+      "patient": 25,
+      "dead": 0
+    },
+    {
+      "country": "싱가포르",
+      "patient": 22,
       "dead": 0
     },
     {
       "country": "일본",
-      "patient": 16,
+      "patient": 29,
       "dead": 0
     },
     {
       "country": "베트남",
-      "patient": 8,
+      "patient": 10,
       "dead": 0
     },
     {
@@ -311,7 +362,7 @@
     },
     {
       "country": "말레이시아",
-      "patient": 8,
+      "patient": 10,
       "dead": 0
     },
     {
@@ -346,7 +397,7 @@
     },
     {
       "country": "캐나다",
-      "patient": 4,
+      "patient": 5,
       "dead": 0
     },
     {
@@ -356,7 +407,7 @@
     },
     {
       "country": "독일",
-      "patient": 8,
+      "patient": 10,
       "dead": 0
     },
     {
@@ -391,7 +442,7 @@
     },
     {
       "country": "호주",
-      "patient": 12,
+      "patient": 13,
       "dead": 0
     }
   ]
