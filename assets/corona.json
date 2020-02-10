@@ -448,22 +448,22 @@
   "trends": [
     {
       "country": "대한민국",
-      "patient": 24,
+      "patient": 27,
       "dead": 0
     },
     {
       "country": "중국",
-      "patient": 31398,
-      "dead": 636
+      "patient": 40171,
+      "dead": 908
     },
     {
       "country": "홍콩",
-      "patient": 21,
+      "patient": 26,
       "dead": 1
     },
     {
       "country": "대만",
-      "patient": 13,
+      "patient": 18,
       "dead": 0
     },
     {
@@ -473,22 +473,22 @@
     },
     {
       "country": "태국",
-      "patient": 25,
+      "patient": 32,
       "dead": 0
     },
     {
       "country": "싱가포르",
-      "patient": 28,
+      "patient": 40,
       "dead": 0
     },
     {
       "country": "일본",
-      "patient": 45,
+      "patient": 26,
       "dead": 0
     },
     {
       "country": "베트남",
-      "patient": 10,
+      "patient": 14,
       "dead": 0
     },
     {
@@ -498,7 +498,7 @@
     },
     {
       "country": "말레이시아",
-      "patient": 12,
+      "patient": 17,
       "dead": 0
     },
     {
@@ -513,7 +513,7 @@
     },
     {
       "country": "아랍에미리트",
-      "patient": 5,
+      "patient": 7,
       "dead": 0
     },
     {
@@ -533,17 +533,17 @@
     },
     {
       "country": "캐나다",
-      "patient": 5,
+      "patient": 7,
       "dead": 0
     },
     {
       "country": "프랑스",
-      "patient": 6,
+      "patient": 11,
       "dead": 0
     },
     {
       "country": "독일",
-      "patient": 12,
+      "patient": 14,
       "dead": 0
     },
     {
@@ -553,12 +553,12 @@
     },
     {
       "country": "이탈리아",
-      "patient": 2,
+      "patient": 3,
       "dead": 0
     },
     {
       "country": "영국",
-      "patient": 2,
+      "patient": 3,
       "dead": 0
     },
     {
@@ -578,7 +578,17 @@
     },
     {
       "country": "호주",
-      "patient": 14,
+      "patient": 15,
+      "dead": 0
+    },
+     {
+      "country": "벨기에",
+      "patient": 1,
+      "dead": 0
+    },
+    {
+      "country": "기타(일본크루즈)",
+      "patient": 64,
       "dead": 0
     }
   ]
