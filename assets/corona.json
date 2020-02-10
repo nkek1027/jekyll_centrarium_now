@@ -8,7 +8,7 @@
           "country": "중국",
           "woo": "우한 거주 여행객,인천공항(1/19)",
           "date": "1/21",
-          "hospital": "조사중",
+          "hospital": "인천의료원(퇴원)",
           "people": "45",
           "etc": ""
         }
@@ -24,7 +24,7 @@
           "country": "한국",
           "woo": "우한 거주, 우한->상하이->김포공항(1/22)",
           "date": "1/24",
-          "hospital": "조사중",
+          "hospital": "국립중앙의료원(퇴원)",
           "people": "75",
           "etc": ""
         }
@@ -40,8 +40,8 @@
           "country": "한국",
           "woo": "우한 거주, 일시 귀국(1/20)",
           "date": "1/26",
-          "hospital": "조사중",
-          "people": "95",
+          "hospital": "명지병원",
+          "people": "16",
           "etc": ""
         }
       ],
@@ -56,8 +56,8 @@
           "country": "한국",
           "woo": "우한 -> 인천공한(1/20)",
           "date": "1/27",
-          "hospital": "조사중",
-          "people": "172",
+          "hospital": "분당서울대병원",
+          "people": "95",
           "etc": ""
         }
       ],
@@ -72,8 +72,8 @@
           "country": "한국",
           "woo": "우한 -> 인천공한(1/22)",
           "date": "1/30",
-          "hospital": "조사중",
-          "people": "33",
+          "hospital": "서울의료원",
+          "people": "23",
           "etc": ""
         }
       ],
@@ -88,8 +88,8 @@
           "country": "한국",
           "woo": "방문 이력없음(2차감염자)",
           "date": "1/30",
-          "hospital": "조사중",
-          "people": "25",
+          "hospital": "서울대병원",
+          "people": "17",
           "etc": "지인 3번환자와 식사"
         }
       ],
@@ -104,8 +104,8 @@
           "country": "한국",
           "woo": "우한->청도->인천공항",
           "date": "1/31",
-          "hospital": "조사중",
-          "people": "21",
+          "hospital": "서울의료원",
+          "people": "7",
           "etc": ""
         }
       ],
@@ -120,8 +120,8 @@
           "country": "한국",
           "woo": "청도->인천공항(1/23)",
           "date": "1/31",
-          "hospital": "조사중",
-          "people": "72",
+          "hospital": "원광대병원(익산)",
+          "people": "113",
           "etc": ""
         }
       ],
@@ -136,7 +136,7 @@
           "country": "한국",
           "woo": "방문 이력없음(2차감염자)",
           "date": "1/31",
-          "hospital": "조사중",
+          "hospital": "서울의료원",
           "people": "2",
           "etc": "지인 5번환자와 식사"
         }
@@ -152,8 +152,8 @@
           "country": "한국",
           "woo": "방문 이력없음(3차감염자)",
           "date": "1/31",
-          "hospital": "조사중",
-          "people": "2",
+          "hospital": "서울대병원",
+          "people": "39",
           "etc": "6번 환자 가족"
         }
       ],
@@ -168,8 +168,8 @@
           "country": "한국",
           "woo": "방문 이력없음(3차감염자)",
           "date": "1/31",
-          "hospital": "조사중",
-          "people": "",
+          "hospital": "서울대병원",
+          "people": "0",
           "etc": "6번 환자 가족"
         }
       ],
@@ -184,8 +184,8 @@
           "country": "중국",
           "woo": "가이드 일본->19일 김포공항",
           "date": "2/1",
-          "hospital": "조사중",
-          "people": "138",
+          "hospital": "분당서울대병원",
+          "people": "219",
           "etc": "일본 확진자 접촉"
         }
       ],
@@ -200,8 +200,8 @@
           "country": "한국",
           "woo": "",
           "date": "2/2",
-          "hospital": "조사중",
-          "people": "",
+          "hospital": "국립중앙의료원",
+          "people": "0",
           "etc": ""
         }
       ],
@@ -216,8 +216,8 @@
           "country": "중국",
           "woo": "",
           "date": "2/2",
-          "hospital": "조사중",
-          "people": "",
+          "hospital": "분당서울대병원",
+          "people": "3",
           "etc": "12번 확진자 가족"
         }
       ],
@@ -232,8 +232,8 @@
           "country": "한국",
           "woo": "",
           "date": "2/2",
-          "hospital": "조사중",
-          "people": "",
+          "hospital": "국군수도병원",
+          "people": "14",
           "etc": ""
         }
       ],
@@ -248,8 +248,8 @@
           "country": "한국",
           "woo": "",
           "date": "2/4",
-          "hospital": "조사중",
-          "people": "",
+          "hospital": "전남대학교병원",
+          "people": "378",
           "etc": "태국 여행다녀온 뒤 발생"
         }
       ],
@@ -265,8 +265,8 @@
           "country": "한국",
           "woo": "",
           "date": "2/5",
-          "hospital": "조사중",
-          "people": "",
+          "hospital": "명지병원",
+          "people": "188",
           "etc": "태국 여행다녀온 뒤 발생"
         }
       ],
@@ -282,7 +282,7 @@
           "country": "한국",
           "woo": "",
           "date": "2/5",
-          "hospital": "조사중",
+          "hospital": "전남대학교병원",
           "people": "",
           "etc": "16번 환자 딸"
         }
@@ -299,7 +299,7 @@
           "country": "한국",
           "woo": "",
           "date": "2/5",
-          "hospital": "조사중",
+          "hospital": "서울의료원",
           "people": "",
           "etc": "싱가포르 컨퍼런스 참석 후 발생"
         }
@@ -316,7 +316,7 @@
           "country": "한국",
           "woo": "",
           "date": "2/5",
-          "hospital": "조사중",
+          "hospital": "국군수도병원",
           "people": "",
           "etc": "15번 환자 "
         }
@@ -333,7 +333,7 @@
           "country": "한국",
           "woo": "",
           "date": "2/5",
-          "hospital": "조사중",
+          "hospital": "서울대병원",
           "people": "",
           "etc": "6번 환자와 접촉"
         }
@@ -350,7 +350,7 @@
           "country": "한국",
           "woo": "",
           "date": "2/6",
-          "hospital": "조사중",
+          "hospital": "조선대병원",
           "people": "",
           "etc": "16번 환자 오빠"
         }
@@ -367,7 +367,7 @@
           "country": "중국",
           "woo": "",
           "date": "2/6",
-          "hospital": "조사중",
+          "hospital": "국립중앙의료원",
           "people": "",
           "etc": "가족 6명과 관광 목적"
         }
@@ -384,9 +384,60 @@
           "country": "한국",
           "woo": "우한 교민",
           "date": "2/7",
-          "hospital": "조사중",
+          "hospital": "국립중앙의료원",
           "people": "",
           "etc": "13번 직장동료"
+        }
+      ],
+      "overview": "",
+      "contents": ""
+    }
+     ,
+    {
+      "no": "25",
+      "who": [
+        {
+          "name": "여성(73)",
+          "country": "한국",
+          "woo": "",
+          "date": "2/9",
+          "hospital": "조사중",
+          "people": "",
+          "etc": "광둥성 방문 가족 동거인"
+        }
+      ],
+      "overview": "",
+      "contents": ""
+    }
+      ,
+    {
+      "no": "26",
+      "who": [
+        {
+          "name": "남성(51)",
+          "country": "한국",
+          "woo": "",
+          "date": "2/9",
+          "hospital": "조사중",
+          "people": "",
+          "etc": "25번 환자 아들"
+        }
+      ],
+      "overview": "",
+      "contents": ""
+    }
+      ,
+    {
+      "no": "27",
+      "who": [
+        {
+          "name": "여성(37)",
+          "country": "한국",
+          "woo": "",
+          "date": "2/9",
+          "hospital": "조사중",
+          "people": "",
+          "etc": "25번 환자 며느리"
         }
       ],
       "overview": "",
