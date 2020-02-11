@@ -443,22 +443,39 @@
       "overview": "",
       "contents": ""
     }
+     ,
+    {
+      "no": "28",
+      "who": [
+        {
+          "name": "여성(30)",
+          "country": "중국",
+          "woo": "",
+          "date": "2/9",
+          "hospital": "명지병원",
+          "people": "",
+          "etc": "25번 환자 며느리"
+        }
+      ],
+      "overview": "",
+      "contents": ""
+    }
   ],
   "live_url": "http://www.cdc.go.kr/linkCheck.es?mid=a21111050500",
   "trends": [
     {
       "country": "대한민국",
-      "patient": 27,
+      "patient": 28,
       "dead": 0
     },
     {
       "country": "중국",
-      "patient": 40171,
-      "dead": 908
+      "patient": 43065,
+      "dead": 1018
     },
     {
       "country": "홍콩",
-      "patient": 26,
+      "patient": 42,
       "dead": 1
     },
     {
@@ -478,7 +495,7 @@
     },
     {
       "country": "싱가포르",
-      "patient": 40,
+      "patient": 43,
       "dead": 0
     },
     {
@@ -498,7 +515,7 @@
     },
     {
       "country": "말레이시아",
-      "patient": 17,
+      "patient": 18,
       "dead": 0
     },
     {
@@ -558,7 +575,7 @@
     },
     {
       "country": "영국",
-      "patient": 3,
+      "patient": 4,
       "dead": 0
     },
     {
@@ -573,7 +590,7 @@
     },
     {
       "country": "스페인",
-      "patient": 1,
+      "patient": 2,
       "dead": 0
     },
     {
@@ -588,7 +605,7 @@
     },
     {
       "country": "기타(일본크루즈)",
-      "patient": 64,
+      "patient": 135,
       "dead": 0
     }
   ]
