@@ -470,12 +470,12 @@
     },
     {
       "country": "중국",
-      "patient": 43065,
-      "dead": 1018
+      "patient": 44653,
+      "dead": 1113
     },
     {
       "country": "홍콩",
-      "patient": 42,
+      "patient": 49,
       "dead": 1
     },
     {
@@ -490,22 +490,22 @@
     },
     {
       "country": "태국",
-      "patient": 32,
+      "patient": 33,
       "dead": 0
     },
     {
       "country": "싱가포르",
-      "patient": 43,
+      "patient": 47,
       "dead": 0
     },
     {
       "country": "일본",
-      "patient": 26,
+      "patient": 28,
       "dead": 0
     },
     {
       "country": "베트남",
-      "patient": 14,
+      "patient": 15,
       "dead": 0
     },
     {
@@ -530,7 +530,7 @@
     },
     {
       "country": "아랍에미리트",
-      "patient": 7,
+      "patient": 8,
       "dead": 0
     },
     {
@@ -545,7 +545,7 @@
     },
     {
       "country": "미국",
-      "patient": 12,
+      "patient": 13,
       "dead": 0
     },
     {
@@ -560,7 +560,7 @@
     },
     {
       "country": "독일",
-      "patient": 14,
+      "patient": 16,
       "dead": 0
     },
     {
@@ -575,7 +575,7 @@
     },
     {
       "country": "영국",
-      "patient": 4,
+      "patient": 8,
       "dead": 0
     },
     {
@@ -605,7 +605,7 @@
     },
     {
       "country": "기타(일본크루즈)",
-      "patient": 135,
+      "patient": 175,
       "dead": 0
     }
   ]
