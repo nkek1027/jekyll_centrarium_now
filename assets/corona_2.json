@@ -8,12 +8,12 @@
     },
     {
       "country": "중국",
-      "patient": 63851,
-      "dead": 1380
+      "patient": 66492,
+      "dead": 1523
     },
     {
       "country": "홍콩",
-      "patient": 50,
+      "patient": 56,
       "dead": 1
     },
     {
@@ -33,13 +33,13 @@
     },
     {
       "country": "싱가포르",
-      "patient": 50,
+      "patient": 67,
       "dead": 0
     },
     {
       "country": "일본",
-      "patient": 29,
-      "dead": 0
+      "patient": 40,
+      "dead": 1
     },
     {
       "country": "베트남",
@@ -53,7 +53,7 @@
     },
     {
       "country": "말레이시아",
-      "patient": 18,
+      "patient": 19,
       "dead": 0
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "country": "미국",
-      "patient": 14,
+      "patient": 15,
       "dead": 0
     },
     {
