@@ -5,7 +5,7 @@
       "who": [
         {
           "name": "여성(36세)",
-          "country": "중국(퇴원)",
+          "country": "중국",
           "woo": "우한 거주 여행객,인천공항(1/19)",
           "date": "1/21",
           "hospital": "인천의료원",
@@ -14,14 +14,14 @@
         }
       ],
       "overview": "",
-      "contents": ""
+      "contents": "퇴원"
     },
     {
       "no": "02",
       "who": [
         {
           "name": "남성(55세)",
-          "country": "한국(퇴원)",
+          "country": "한국",
           "woo": "우한 거주, 우한->상하이->김포공항(1/22)",
           "date": "1/24",
           "hospital": "국립중앙의료원",
@@ -30,7 +30,7 @@
         }
       ],
       "overview": "",
-      "contents": ""
+      "contents": "퇴원"
     },
     {
       "no": "03",
@@ -46,7 +46,7 @@
         }
       ],
       "overview": "",
-      "contents": ""
+      "contents": "퇴원"
     },
     {
       "no": "04",
@@ -58,7 +58,7 @@
           "date": "1/27",
           "hospital": "분당서울대병원",
           "people": "95",
-          "etc": ""
+          "etc": "퇴원"
         }
       ],
       "overview": "",
@@ -110,7 +110,7 @@
         }
       ],
       "overview": "",
-      "contents": ""
+      "contents": "퇴원"
     },
     {
       "no": "08",
@@ -126,7 +126,7 @@
         }
       ],
       "overview": "",
-      "contents": ""
+      "contents": "퇴원"
     },
     {
       "no": "09",
@@ -174,7 +174,7 @@
         }
       ],
       "overview": "",
-      "contents": ""
+      "contents": "퇴원"
     },
     {
       "no": "12",
@@ -185,7 +185,7 @@
           "woo": "가이드 일본->19일 김포공항",
           "date": "2/1",
           "hospital": "분당서울대병원",
-          "people": "420",
+          "people": "422",
           "etc": "일본 확진자 접촉"
         }
       ],
@@ -233,7 +233,7 @@
           "woo": "",
           "date": "2/2",
           "hospital": "국군수도병원",
-          "people": "14",
+          "people": "15",
           "etc": ""
         }
       ],
@@ -249,7 +249,7 @@
           "woo": "",
           "date": "2/4",
           "hospital": "전남대학교병원",
-          "people": "417",
+          "people": "450",
           "etc": "태국 여행다녀온 뒤 발생"
         }
       ],
@@ -271,7 +271,7 @@
         }
       ],
       "overview": "",
-      "contents": ""
+      "contents": "퇴원"
     }
     ,
     {
@@ -300,7 +300,7 @@
           "woo": "",
           "date": "2/5",
           "hospital": "서울의료원",
-          "people": "67",
+          "people": "68",
           "etc": "싱가포르 컨퍼런스 참석 후 발생"
         }
       ],
@@ -334,7 +334,7 @@
           "woo": "",
           "date": "2/5",
           "hospital": "서울대병원",
-          "people": "7",
+          "people": "6",
           "etc": "6번 환자와 접촉"
         }
       ],
@@ -356,7 +356,7 @@
         }
       ],
       "overview": "",
-      "contents": ""
+      "contents": "퇴원"
     }
     ,
     {
@@ -401,8 +401,8 @@
           "country": "한국",
           "woo": "",
           "date": "2/9",
-          "hospital": "조사중",
-          "people": "",
+          "hospital": "분당서울대병원",
+          "people": "12",
           "etc": "광둥성 방문 가족 동거인"
         }
       ],
@@ -418,8 +418,8 @@
           "country": "한국",
           "woo": "",
           "date": "2/9",
-          "hospital": "조사중",
-          "people": "",
+          "hospital": "경기도의료원안성병원",
+          "people": "0",
           "etc": "25번 환자 아들"
         }
       ],
@@ -435,8 +435,8 @@
           "country": "한국",
           "woo": "",
           "date": "2/9",
-          "hospital": "조사중",
-          "people": "",
+          "hospital": "경기도의료원안성병원",
+          "people": "38",
           "etc": "25번 환자 며느리"
         }
       ],
@@ -453,7 +453,7 @@
           "woo": "",
           "date": "2/1",
           "hospital": "명지병원",
-          "people": "",
+          "people": "1",
           "etc": ""
         }
       ],
