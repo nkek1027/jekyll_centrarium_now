@@ -465,13 +465,30 @@
       "no": "29",
       "who": [
         {
-          "name": "남성(38)",
+          "name": "남성(82)",
           "country": "한국",
           "woo": "",
           "date": "2/16",
           "hospital": "명지병원",
-          "people": "0",
+          "people": "",
           "etc": ""
+        }
+      ],
+      "overview": "",
+      "contents": ""
+    }
+    ,
+    {
+      "no": "30",
+      "who": [
+        {
+          "name": "여성(68)",
+          "country": "한국",
+          "woo": "",
+          "date": "2/17",
+          "hospital": "명지병원",
+          "people": "",
+          "etc": "29번 아내"
         }
       ],
       "overview": "",
