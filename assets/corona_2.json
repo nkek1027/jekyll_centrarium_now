@@ -3,13 +3,13 @@
   "trends": [
     {
       "country": "대한민국",
-      "patient": 28,
+      "patient": 29,
       "dead": 0
     },
     {
       "country": "중국",
-      "patient": 66492,
-      "dead": 1523
+      "patient": 70433,
+      "dead": 1765
     },
     {
       "country": "홍콩",
@@ -18,8 +18,8 @@
     },
     {
       "country": "대만",
-      "patient": 18,
-      "dead": 0
+      "patient": 20,
+      "dead": 1
     },
     {
       "country": "마카오",
@@ -28,17 +28,17 @@
     },
     {
       "country": "태국",
-      "patient": 33,
+      "patient": 34,
       "dead": 0
     },
     {
       "country": "싱가포르",
-      "patient": 67,
+      "patient": 72,
       "dead": 0
     },
     {
       "country": "일본",
-      "patient": 40,
+      "patient": 53,
       "dead": 1
     },
     {
@@ -53,7 +53,7 @@
     },
     {
       "country": "말레이시아",
-      "patient": 19,
+      "patient": 22,
       "dead": 0
     },
     {
@@ -93,8 +93,8 @@
     },
     {
       "country": "프랑스",
-      "patient": 11,
-      "dead": 0
+      "patient": 12,
+      "dead": 1
     },
     {
       "country": "독일",
@@ -143,7 +143,13 @@
     },
     {
       "country": "기타(일본크루즈)",
-      "patient": 218,
+      "patient": 355,
+      "dead": 0
+    }
+    ,
+    {
+      "country": "이집트",
+      "patient": 1,
       "dead": 0
     }
   ]
