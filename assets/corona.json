@@ -58,11 +58,11 @@
           "date": "1/27",
           "hospital": "분당서울대병원",
           "people": "95",
-          "etc": "퇴원"
+          "etc": ""
         }
       ],
       "overview": "",
-      "contents": ""
+      "contents": "퇴원"
     },
     {
       "no": "05",
@@ -106,7 +106,7 @@
           "date": "1/31",
           "hospital": "서울의료원",
           "people": "9",
-          "etc": ""
+          "etc": "퇴원"
         }
       ],
       "overview": "",
@@ -432,7 +432,7 @@
       "who": [
         {
           "name": "여성(37)",
-          "country": "한국",
+          "country": "국",
           "woo": "",
           "date": "2/9",
           "hospital": "경기도의료원안성병원",
