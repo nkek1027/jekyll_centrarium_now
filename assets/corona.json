@@ -511,6 +511,23 @@
       "overview": "",
       "contents": ""
     }
+    ,
+    {
+      "no": "",
+      "who": [
+        {
+          "name": "",
+          "country": "",
+          "woo": "",
+          "date": "",
+          "hospital": "",
+          "people": "",
+          "etc": ""
+        }
+      ],
+      "overview": "",
+      "contents": ""
+    }
   ],
   "live_url": "http://www.cdc.go.kr/linkCheck.es?mid=a21111050500",
   "trends": [
