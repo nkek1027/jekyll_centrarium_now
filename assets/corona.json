@@ -494,6 +494,23 @@
       "overview": "",
       "contents": ""
     }
+    ,
+    {
+      "no": "31",
+      "who": [
+        {
+          "name": "여성(61)",
+          "country": "한국",
+          "woo": "",
+          "date": "2/18",
+          "hospital": "대구의료원",
+          "people": "",
+          "etc": ""
+        }
+      ],
+      "overview": "",
+      "contents": ""
+    }
   ],
   "live_url": "http://www.cdc.go.kr/linkCheck.es?mid=a21111050500",
   "trends": [
