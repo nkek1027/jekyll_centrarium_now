@@ -3,7 +3,7 @@
   "trends": [
     {
       "country": "대한민국",
-      "patient": 46,
+      "patient": 51,
       "dead": 0
     },
     {
@@ -13,7 +13,7 @@
     },
     {
       "country": "홍콩",
-      "patient": 60,
+      "patient": 62,
       "dead": 1
     },
     {
