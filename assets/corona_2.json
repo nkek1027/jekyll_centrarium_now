@@ -3,7 +3,7 @@
   "trends": [
     {
       "country": "대한민국",
-      "patient": 51,
+      "patient": 82,
       "dead": 0
     },
     {
@@ -13,8 +13,8 @@
     },
     {
       "country": "홍콩",
-      "patient": 62,
-      "dead": 1
+      "patient": 65,
+      "dead": 2
     },
     {
       "country": "대만",
@@ -33,7 +33,7 @@
     },
     {
       "country": "싱가포르",
-      "patient": 81,
+      "patient": 84,
       "dead": 0
     },
     {
@@ -143,7 +143,7 @@
     },
     {
       "country": "기타(일본크루즈)",
-      "patient": 542,
+      "patient": 621,
       "dead": 0
     }
     ,
