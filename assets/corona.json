@@ -125,7 +125,7 @@
           "etc": "확인중"
         }
       ],
-      "overview": "서울",
+      "overview": "경북",
       "contents": ""
     },
     {
@@ -141,7 +141,7 @@
           "etc": "확인중"
         }
       ],
-      "overview": "서울",
+      "overview": "대구",
       "contents": ""
     }, {
       "no": "197",
@@ -219,7 +219,7 @@
           "etc": "확인중"
         }
       ],
-      "overview": "서울",
+      "overview": "경북",
       "contents": ""
     },
     {
@@ -1116,16 +1116,16 @@
       "no": "136",
       "who": [
         {
-          "name": "조사중",
+          "name": "남성(?세)",
           "country": "한국",
           "woo": "",
           "date": "2/21",
           "hospital": "확인중",
           "people": "",
-          "etc": "확인중"
+          "etc": "83번 환자에게 감염 추정"
         }
       ],
-      "overview": "대구",
+      "overview": "서울",
       "contents": ""
     },
     {
@@ -1355,16 +1355,16 @@
       "no": "121",
       "who": [
         {
-          "name": "조사중",
+          "name": "여성(?세)",
           "country": "한국",
           "woo": "",
           "date": "2/21",
           "hospital": "확인중",
           "people": "",
-          "etc": "확인중"
+          "etc": "40번 환자 아내"
         }
       ],
-      "overview": "경북",
+      "overview": "서울",
       "contents": ""
     },
     {
@@ -1499,16 +1499,16 @@
       "no": "112",
       "who": [
         {
-          "name": "조사중",
+          "name": "여성(80세)",
           "country": "한국",
           "woo": "",
           "date": "2/21",
           "hospital": "확인중",
           "people": "",
-          "etc": "확인중"
+          "etc": "136번 환자 배우자"
         }
       ],
-      "overview": "경북",
+      "overview": "서울",
       "contents": ""
     },
     {
@@ -1963,7 +1963,7 @@
       "no": "83",
       "who": [
         {
-          "name": "조사중",
+          "name": "남성(65세)",
           "country": "한국",
           "woo": "",
           "date": "2/21",
