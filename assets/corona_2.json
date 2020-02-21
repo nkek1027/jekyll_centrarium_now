@@ -8,8 +8,8 @@
     },
     {
       "country": "중국",
-      "patient": 74987,
-      "dead": 2233
+      "patient": 75465,
+      "dead": 2236
     },
     {
       "country": "홍콩",
@@ -80,6 +80,11 @@
       "country": "필리핀",
       "patient": 3,
       "dead": 1
+    },
+    {
+      "country": "이란",
+      "patient": 2,
+      "dead": 2
     },
     {
       "country": "미국",
