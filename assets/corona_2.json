@@ -3,13 +3,13 @@
   "trends": [
     {
       "country": "대한민국",
-      "patient": 206,
+      "patient": 346,
       "dead": 2
     },
     {
       "country": "중국",
-      "patient": 75465,
-      "dead": 2236
+      "patient": 76288,
+      "dead": 2345
     },
     {
       "country": "홍콩",
@@ -18,7 +18,7 @@
     },
     {
       "country": "대만",
-      "patient": 24,
+      "patient": 26,
       "dead": 1
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "country": "싱가포르",
-      "patient": 85,
+      "patient": 86,
       "dead": 0
     },
     {
       "country": "일본",
-      "patient": 93,
+      "patient": 105,
       "dead": 1
     },
     {
@@ -88,7 +88,7 @@
     },
     {
       "country": "미국",
-      "patient": 15,
+      "patient": 16,
       "dead": 0
     },
     {
@@ -113,7 +113,7 @@
     },
     {
       "country": "이탈리아",
-      "patient": 3,
+      "patient": 19,
       "dead": 0
     },
     {
@@ -138,7 +138,7 @@
     },
     {
       "country": "호주",
-      "patient": 15,
+      "patient": 17,
       "dead": 0
     },
      {
