@@ -5540,8 +5540,93 @@
   "live_url": "http://www.cdc.go.kr/linkCheck.es?mid=a21111050500",
   "trends": [
     {
-      "country": "대한민국",
-      "patient": 28,
+      "country": "전체",
+      "patient": 346,
+      "dead": 0
+    },
+    {
+      "country": "서울",
+      "patient": 20,
+      "dead": 0
+    },
+    {
+      "country": "부산",
+      "patient": 2,
+      "dead": 0
+    },
+    {
+      "country": "대구",
+      "patient": 154,
+      "dead": 0
+    },
+    {
+      "country": "인천",
+      "patient": 1,
+      "dead": 0
+    },
+    {
+      "country": "광주",
+      "patient": 5,
+      "dead": 0
+    },
+    {
+      "country": "대전",
+      "patient": 1,
+      "dead": 0
+    },
+    {
+      "country": "울산",
+      "patient": 0,
+      "dead": 0
+    },
+    {
+      "country": "세종",
+      "patient": 1,
+      "dead": 0
+    },
+    {
+      "country": "경기",
+      "patient": 16,
+      "dead": 0
+    },
+    {
+      "country": "강원",
+      "patient": 0,
+      "dead": 0
+    },
+    {
+      "country": "충북",
+      "patient": 3,
+      "dead": 0
+    },
+    {
+      "country": "충남",
+      "patient": 2,
+      "dead": 0
+    },
+    {
+      "country": "전북",
+      "patient": 3,
+      "dead": 0
+    },
+    {
+      "country": "전남",
+      "patient": 1,
+      "dead": 0
+    },
+    {
+      "country": "경북",
+      "patient": 130,
+      "dead": 0
+    },
+    {
+      "country": "경남",
+      "patient": 4,
+      "dead": 0
+    },
+    {
+      "country": "제주",
+      "patient": 2,
       "dead": 0
     }
   ]
