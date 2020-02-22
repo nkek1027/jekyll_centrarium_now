@@ -1,54 +1,6 @@
 {
   "details": [
     {
-      "no": "436",
-      "who": [
-        {
-          "name": "여성(20대)",
-          "country": "한국",
-          "woo": "",
-          "date": "2/22",
-          "hospital": "",
-          "people": "-",
-          "etc": "해운대구 거주"
-        }
-      ],
-      "overview": "부산",
-      "contents": ""
-    },
-    {
-      "no": "435",
-      "who": [
-        {
-          "name": "여성(20대)",
-          "country": "한국",
-          "woo": "",
-          "date": "2/22",
-          "hospital": "",
-          "people": "-",
-          "etc": "해운대구 거주"
-        }
-      ],
-      "overview": "부산",
-      "contents": ""
-    },
-    {
-      "no": "434",
-      "who": [
-        {
-          "name": "남성(40대)",
-          "country": "한국",
-          "woo": "",
-          "date": "2/22",
-          "hospital": "자택",
-          "people": "-",
-          "etc": "사망 후 검사 결과 양성"
-        }
-      ],
-      "overview": "경북",
-      "contents": "사망"
-    },
-    {
       "no": "433",
       "who": [
         {
@@ -1034,7 +986,7 @@
           "date": "2/22",
           "hospital": "",
           "people": "-",
-          "etc": "신천지대구교회 관련"
+          "etc": "조사중"
         }
       ],
       "overview": "서울",
@@ -1453,7 +1405,7 @@
           "etc": "확인중"
         }
       ],
-      "overview": "경북",
+      "overview": "대구",
       "contents": ""
     },
     {
@@ -3098,7 +3050,7 @@
           "date": "2/22",
           "hospital": "",
           "people": "-",
-          "etc": "확인중"
+          "etc": "청도대남병원 관련"
         }
       ],
       "overview": "대구",
@@ -3162,7 +3114,7 @@
           "date": "2/22",
           "hospital": "",
           "people": "-",
-          "etc": "신천지대구교회 관련"
+          "etc": "확인중"
         }
       ],
       "overview": "대구",
@@ -3690,7 +3642,7 @@
           "date": "2/21",
           "hospital": "",
           "people": "-",
-          "etc": "확인중"
+          "etc": "청도대남병원 관련"
         }
       ],
       "overview": "대구",
@@ -3722,7 +3674,7 @@
           "date": "2/21",
           "hospital": "",
           "people": "-",
-          "etc": "확인중"
+          "etc": "신천지대구교회 관련"
         }
       ],
       "overview": "대구",
@@ -3738,7 +3690,7 @@
           "date": "2/21",
           "hospital": "",
           "people": "-",
-          "etc": "확인중"
+          "etc": "신천지대구교회 관련"
         }
       ],
       "overview": "대구",
@@ -3754,7 +3706,7 @@
           "date": "2/21",
           "hospital": "",
           "people": "-",
-          "etc": "확인중"
+          "etc": "신천지대구교회 관련"
         }
       ],
       "overview": "대구",
@@ -3770,7 +3722,7 @@
           "date": "2/21",
           "hospital": "",
           "people": "-",
-          "etc": "확인중"
+          "etc": "신천지대구교회 관련"
         }
       ],
       "overview": "대구",
@@ -3802,10 +3754,10 @@
           "date": "2/21",
           "hospital": "",
           "people": "-",
-          "etc": "확인중"
+          "etc": "신천지대구교회 관련"
         }
       ],
-      "overview": "경북",
+      "overview": "대구",
       "contents": ""
     },
     {
@@ -3818,7 +3770,7 @@
           "date": "2/21",
           "hospital": "",
           "people": "-",
-          "etc": "확인중"
+          "etc": "신천지대구교회 관련"
         }
       ],
       "overview": "대구",
@@ -3834,7 +3786,7 @@
           "date": "2/21",
           "hospital": "",
           "people": "-",
-          "etc": "확인중"
+          "etc": "신천지대구교회 관련"
         }
       ],
       "overview": "광주",
@@ -3850,10 +3802,10 @@
           "date": "2/21",
           "hospital": "",
           "people": "-",
-          "etc": "확인중"
+          "etc": "신천지대구교회 관련"
         }
       ],
-      "overview": "서울",
+      "overview": "경기",
       "contents": ""
     },
     {
@@ -3898,10 +3850,10 @@
           "date": "2/21",
           "hospital": "",
           "people": "-",
-          "etc": "확인중"
+          "etc": "신천지대구교회 관련"
         }
       ],
-      "overview": "경북",
+      "overview": "대구",
       "contents": ""
     },
     {
@@ -3917,7 +3869,7 @@
           "etc": "신천지대구교회 관련"
         }
       ],
-      "overview": "광주",
+      "overview": "대구",
       "contents": ""
     },
     {
@@ -6981,8 +6933,8 @@
   "trends": [
     {
       "country": "전체",
-      "patient": 436,
-      "dead": 0
+      "patient": 433,
+      "dead": 2
     },
     {
       "country": "서울",
@@ -6991,7 +6943,7 @@
     },
     {
       "country": "부산",
-      "patient": 5,
+      "patient": 3,
       "dead": 0
     },
     {
@@ -7041,7 +6993,7 @@
     },
     {
       "country": "충남",
-      "patient": 2,
+      "patient": 3,
       "dead": 0
     },
     {
@@ -7056,7 +7008,7 @@
     },
     {
       "country": "경북",
-      "patient": 145,
+      "patient": 144,
       "dead": 0
     },
     {
