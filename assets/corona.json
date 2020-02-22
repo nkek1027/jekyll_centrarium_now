@@ -900,11 +900,11 @@
       "no": "377",
       "who": [
         {
-          "name": "환자",
+          "name": "여성(27세)",
           "country": "한국",
           "woo": "",
           "date": "2/22",
-          "hospital": "",
+          "hospital": "울산대병원",
           "people": "-",
           "etc": "신천지대구교회 관련"
         }
@@ -3236,16 +3236,16 @@
       "no": "231",
       "who": [
         {
-          "name": "환자",
+          "name": "여성(57세)",
           "country": "한국",
           "woo": "",
-          "date": "2/22",
-          "hospital": "",
+          "date": "2/21",
+          "hospital": "부산의료원",
           "people": "-",
-          "etc": "신천지대구교회 관련"
+          "etc": "확인중"
         }
       ],
-      "overview": "대구",
+      "overview": "부산",
       "contents": ""
     },
     {
@@ -3636,7 +3636,7 @@
       "no": "206",
       "who": [
         {
-          "name": "남성(19세)",
+          "name": "환자",
           "country": "한국",
           "woo": "",
           "date": "2/21",
@@ -3645,23 +3645,23 @@
           "etc": "확인중"
         }
       ],
-      "overview": "부산",
+      "overview": "대구",
       "contents": ""
     },
     {
       "no": "205",
       "who": [
         {
-          "name": "여성(57세)",
+          "name": "환자",
           "country": "한국",
           "woo": "",
-          "date": "2/21",
+          "date": "2/22",
           "hospital": "",
           "people": "-",
-          "etc": "확인중"
+          "etc": "신천지대구교회 관련"
         }
       ],
-      "overview": "부산",
+      "overview": "대구",
       "contents": ""
     },
     {
@@ -3732,16 +3732,16 @@
       "no": "200",
       "who": [
         {
-          "name": "환자",
+          "name": "남성(19세)",
           "country": "한국",
           "woo": "",
           "date": "2/21",
-          "hospital": "",
+          "hospital": "부산의료원",
           "people": "-",
-          "etc": "확인중"
+          "etc": "우한시 방문한 아버지가 음성판정받음."
         }
       ],
-      "overview": "대구",
+      "overview": "부산",
       "contents": ""
     },
     {
