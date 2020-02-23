@@ -2973,7 +2973,7 @@
           "etc": "신천지대구교회 관련"
         }
       ],
-      "overview": "서울",
+      "overview": "강원",
       "contents": ""
     },
     {
@@ -3060,16 +3060,16 @@
       "no": "365",
       "who": [
         {
-          "name": "환자",
+          "name": "남성(62세)",
           "country": "한국",
           "woo": "",
           "date": "2/22",
-          "hospital": "",
+          "hospital": "은평성모병원",
           "people": "-",
           "etc": "신천지대구교회 관련"
         }
       ],
-      "overview": "강원",
+      "overview": "서울",
       "contents": ""
     },
     {
@@ -5786,10 +5786,10 @@
           "date": "2/21",
           "hospital": "",
           "people": "-",
-          "etc": "확인중"
+          "etc": "신천지대구교회 관련"
         }
       ],
-      "overview": "서울",
+      "overview": "대구",
       "contents": ""
     },
     {
@@ -6324,16 +6324,16 @@
       "no": "161",
       "who": [
         {
-          "name": "환자",
+          "name": "남성(35세)",
           "country": "한국",
           "woo": "",
           "date": "2/21",
           "hospital": "",
-          "people": "-",
-          "etc": "신천지대구교회 관련"
+          "people": "302",
+          "etc": "이송요원"
         }
       ],
-      "overview": "대구",
+      "overview": "서울",
       "contents": ""
     },
     {
