@@ -1,6 +1,22 @@
 {
   "details": [
     {
+      "no": "574",
+      "who": [
+        {
+          "name": "남성(46세)",
+          "country": "한국",
+          "woo": "",
+          "date": "2/23",
+          "hospital": "강원대병원",
+          "people": "-",
+          "etc": "대구 결혼식 참석"
+        }
+      ],
+      "overview": "강원",
+      "contents": ""
+    },
+    {
       "no": "573",
       "who": [
         {
@@ -9223,7 +9239,7 @@
     },
     {
       "country": "강원",
-      "patient": 5,
+      "patient": 6,
       "dead": 0
     },
     {
