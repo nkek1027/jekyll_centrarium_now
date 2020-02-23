@@ -1421,7 +1421,7 @@
           "etc": "조사중"
         }
       ],
-      "overview": "대구",
+      "overview": "경북",
       "contents": ""
     },
     {
@@ -1713,22 +1713,6 @@
       "contents": ""
     },
     {
-      "no": "450",
-      "who": [
-        {
-          "name": "환자",
-          "country": "한국",
-          "woo": "",
-          "date": "2/23",
-          "hospital": "",
-          "people": "-",
-          "etc": "신천지대구교회 관련"
-        }
-      ],
-      "overview": "경북",
-      "contents": ""
-    },
-    {
       "no": "449",
       "who": [
         {
@@ -1793,7 +1777,7 @@
       "contents": ""
     },
     {
-      "no": "444",
+      "no": "445",
       "who": [
         {
           "name": "환자",
@@ -1818,10 +1802,10 @@
           "date": "2/23",
           "hospital": "",
           "people": "-",
-          "etc": "신천지대구교회 관련"
+          "etc": "조사중"
         }
       ],
-      "overview": "경북",
+      "overview": "경남",
       "contents": ""
     },
     {
@@ -1882,22 +1866,6 @@
           "date": "2/23",
           "hospital": "",
           "people": "-",
-          "etc": "조사중"
-        }
-      ],
-      "overview": "경남",
-      "contents": ""
-    },
-    {
-      "no": "439",
-      "who": [
-        {
-          "name": "환자",
-          "country": "한국",
-          "woo": "",
-          "date": "2/23",
-          "hospital": "",
-          "people": "-",
           "etc": "신천지대구교회 관련"
         }
       ],
@@ -1905,7 +1873,7 @@
       "contents": ""
     },
     {
-      "no": "438",
+      "no": "439",
       "who": [
         {
           "name": "환자",
