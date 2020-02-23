@@ -1908,13 +1908,13 @@
       "no": "437",
       "who": [
         {
-          "name": "환자",
+          "name": "여성(31세)",
           "country": "한국",
           "woo": "",
           "date": "2/23",
           "hospital": "",
           "people": "-",
-          "etc": "신천지대구교회 관련"
+          "etc": "126번 아내"
         }
       ],
       "overview": "광주",
@@ -6884,7 +6884,7 @@
       "no": "126",
       "who": [
         {
-          "name": "환자",
+          "name": "남성(?세)",
           "country": "한국",
           "woo": "",
           "date": "2/21",
@@ -6893,7 +6893,7 @@
           "etc": "청도대남병원 관련"
         }
       ],
-      "overview": "경북",
+      "overview": "광주",
       "contents": ""
     },
     {
@@ -7178,10 +7178,10 @@
           "date": "2/21",
           "hospital": "",
           "people": "-",
-          "etc": "확인중"
+          "etc": "청도대남병원 관련"
         }
       ],
-      "overview": "광주",
+      "overview": "경북",
       "contents": ""
     },
     {
