@@ -1,7 +1,7 @@
 {
   "details": [
     {
-      "no": "443",
+      "no": "450",
       "who": [
         {
           "name": "환자",
@@ -10,11 +10,123 @@
           "date": "2/23",
           "hospital": "",
           "people": "-",
-          "etc": "조사중"
+          "etc": "신천지대구교회 관련"
         }
       ],
-      "overview": "제주",
+      "overview": "경북",
       "contents": ""
+    },
+    {
+      "no": "449",
+      "who": [
+        {
+          "name": "환자",
+          "country": "한국",
+          "woo": "",
+          "date": "2/23",
+          "hospital": "",
+          "people": "-",
+          "etc": "신천지대구교회 관련"
+        }
+      ],
+      "overview": "경북",
+      "contents": ""
+    },
+    {
+      "no": "448",
+      "who": [
+        {
+          "name": "환자",
+          "country": "한국",
+          "woo": "",
+          "date": "2/23",
+          "hospital": "",
+          "people": "-",
+          "etc": "신천지대구교회 관련"
+        }
+      ],
+      "overview": "경북",
+      "contents": ""
+    },
+    {
+      "no": "447",
+      "who": [
+        {
+          "name": "환자",
+          "country": "한국",
+          "woo": "",
+          "date": "2/23",
+          "hospital": "",
+          "people": "-",
+          "etc": "신천지대구교회 관련"
+        }
+      ],
+      "overview": "경북",
+      "contents": ""
+    },
+    {
+      "no": "446",
+      "who": [
+        {
+          "name": "환자",
+          "country": "한국",
+          "woo": "",
+          "date": "2/23",
+          "hospital": "",
+          "people": "-",
+          "etc": "신천지대구교회 관련"
+        }
+      ],
+      "overview": "경북",
+      "contents": ""
+    },
+    {
+      "no": "444",
+      "who": [
+        {
+          "name": "환자",
+          "country": "한국",
+          "woo": "",
+          "date": "2/23",
+          "hospital": "",
+          "people": "-",
+          "etc": "신천지대구교회 관련"
+        }
+      ],
+      "overview": "경북",
+      "contents": ""
+    },
+    {
+      "no": "444",
+      "who": [
+        {
+          "name": "환자",
+          "country": "한국",
+          "woo": "",
+          "date": "2/23",
+          "hospital": "",
+          "people": "-",
+          "etc": "신천지대구교회 관련"
+        }
+      ],
+      "overview": "경북",
+      "contents": ""
+    },
+    {
+      "no": "443",
+      "who": [
+        {
+          "name": "남성(40대)",
+          "country": "한국",
+          "woo": "",
+          "date": "2/23",
+          "hospital": "자택",
+          "people": "-",
+          "etc": "사망 후 검사 결과 양성"
+        }
+      ],
+      "overview": "경북",
+      "contents": "사망"
     },
     {
       "no": "442",
@@ -164,17 +276,17 @@
       "no": "434",
       "who": [
         {
-          "name": "남성(40대)",
+          "name": "환자",
           "country": "한국",
           "woo": "",
           "date": "2/23",
-          "hospital": "자택",
+          "hospital": "",
           "people": "-",
-          "etc": "사망 후 검사 결과 양성"
+          "etc": "조사중"
         }
       ],
-      "overview": "경북",
-      "contents": "사망"
+      "overview": "제주",
+      "contents": ""
     },
     {
       "no": "433",
