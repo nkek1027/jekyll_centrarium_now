@@ -1,6 +1,38 @@
 {
   "details": [
     {
+      "no": "607",
+      "who": [
+        {
+          "name": "환자",
+          "country": "한국",
+          "woo": "",
+          "date": "2/23",
+          "hospital": "",
+          "people": "-",
+          "etc": "조사중"
+        }
+      ],
+      "overview": "경기",
+      "contents": ""
+    },
+    {
+      "no": "606",
+      "who": [
+        {
+          "name": "환자",
+          "country": "한국",
+          "woo": "",
+          "date": "2/23",
+          "hospital": "",
+          "people": "-",
+          "etc": "조사중"
+        }
+      ],
+      "overview": "경기",
+      "contents": ""
+    },
+    {
       "no": "605",
       "who": [
         {
@@ -462,38 +494,6 @@
         }
       ],
       "overview": "경북",
-      "contents": ""
-    },
-    {
-      "no": "578",
-      "who": [
-        {
-          "name": "환자",
-          "country": "한국",
-          "woo": "",
-          "date": "2/23",
-          "hospital": "",
-          "people": "-",
-          "etc": "조사중"
-        }
-      ],
-      "overview": "경기",
-      "contents": ""
-    },
-    {
-      "no": "577",
-      "who": [
-        {
-          "name": "환자",
-          "country": "한국",
-          "woo": "",
-          "date": "2/23",
-          "hospital": "",
-          "people": "-",
-          "etc": "조사중"
-        }
-      ],
-      "overview": "경기",
       "contents": ""
     },
     {
@@ -9717,7 +9717,7 @@
   "trends": [
     {
       "country": "전체",
-      "patient": 605,
+      "patient": 607,
       "dead": 5
     },
     {
