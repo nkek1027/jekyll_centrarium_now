@@ -660,9 +660,9 @@
       "no": "566",
       "who": [
         {
-          "name": "환자",
+          "name": "남성(21세)",
           "country": "한국",
-          "woo": "",
+          "woo": "동래구 거주",
           "date": "2/23",
           "hospital": "",
           "people": "-",
@@ -676,9 +676,9 @@
       "no": "565",
       "who": [
         {
-          "name": "환자",
+          "name": "남성(21세)",
           "country": "한국",
-          "woo": "",
+          "woo": "동래구 거주",
           "date": "2/23",
           "hospital": "",
           "people": "-",
@@ -692,9 +692,9 @@
       "no": "564",
       "who": [
         {
-          "name": "환자",
+          "name": "환자(46세)",
           "country": "한국",
-          "woo": "",
+          "woo": "동래구 거주",
           "date": "2/23",
           "hospital": "",
           "people": "-",
@@ -708,9 +708,9 @@
       "no": "563",
       "who": [
         {
-          "name": "환자",
+          "name": "여성(26세)",
           "country": "한국",
-          "woo": "",
+          "woo": "북구 거주",
           "date": "2/23",
           "hospital": "",
           "people": "-",
@@ -789,10 +789,10 @@
       "who": [
         {
           "name": "남성(29세)",
-          "country": "한국",
-          "woo": "",
+          "country": "중국",
+          "woo": "수영구 거주",
           "date": "2/23",
-          "hospital": "",
+          "hospital": "부산대병원",
           "people": "-",
           "etc": "신천지대구교회 관련"
         }
@@ -806,7 +806,7 @@
         {
           "name": "여성(82세)",
           "country": "한국",
-          "woo": "",
+          "woo": "연제구 거주",
           "date": "2/23",
           "hospital": "",
           "people": "-",
