@@ -1,6 +1,102 @@
 {
   "details": [
     {
+      "no": "573",
+      "who": [
+        {
+          "name": "남성(32세)",
+          "country": "한국",
+          "woo": "창원거주",
+          "date": "2/23",
+          "hospital": "",
+          "people": "-",
+          "etc": "신천지대구교회 관련"
+        }
+      ],
+      "overview": "경남",
+      "contents": ""
+    },
+    {
+      "no": "572",
+      "who": [
+        {
+          "name": "여성(77세)",
+          "country": "한국",
+          "woo": "고성거주",
+          "date": "2/23",
+          "hospital": "진주경상대병원",
+          "people": "-",
+          "etc": "신천지대구교회 관련"
+        }
+      ],
+      "overview": "경남",
+      "contents": ""
+    },
+    {
+      "no": "571",
+      "who": [
+        {
+          "name": "남성(49세)",
+          "country": "한국",
+          "woo": "창원거주",
+          "date": "2/23",
+          "hospital": "창원경상대병원",
+          "people": "-",
+          "etc": "한마음창원병원 간호사(440번)와 접촉"
+        }
+      ],
+      "overview": "경남",
+      "contents": ""
+    },
+    {
+      "no": "570",
+      "who": [
+        {
+          "name": "남성(26세)",
+          "country": "한국",
+          "woo": "대구거주자",
+          "date": "2/23",
+          "hospital": "마산의료원",
+          "people": "-",
+          "etc": "대구병원이 여의치 않아 마산의료원 음압병동으로 이송"
+        }
+      ],
+      "overview": "경남",
+      "contents": ""
+    },
+    {
+      "no": "569",
+      "who": [
+        {
+          "name": "여성(20세)",
+          "country": "한국",
+          "woo": "창원",
+          "date": "2/23",
+          "hospital": "마산의료원",
+          "people": "-",
+          "etc": "신천지대구교회 관련"
+        }
+      ],
+      "overview": "경남",
+      "contents": ""
+    },
+    {
+      "no": "568",
+      "who": [
+        {
+          "name": "여성(33세)",
+          "country": "한국",
+          "woo": "",
+          "date": "2/23",
+          "hospital": "마산의료원",
+          "people": "-",
+          "etc": "미얀마, 말레이시아 여행.베트남 경유."
+        }
+      ],
+      "overview": "경남",
+      "contents": ""
+    },
+    {
       "no": "567",
       "who": [
         {
@@ -1972,11 +2068,11 @@
       "no": "444",
       "who": [
         {
-          "name": "환자",
+          "name": "남성(70세)",
           "country": "한국",
           "woo": "",
           "date": "2/23",
-          "hospital": "",
+          "hospital": "양산부산대병원",
           "people": "-",
           "etc": "조사중"
         }
@@ -2004,13 +2100,13 @@
       "no": "442",
       "who": [
         {
-          "name": "환자",
+          "name": "남성(21세)",
           "country": "한국",
-          "woo": "",
+          "woo": "창원병원 폐쇄",
           "date": "2/23",
-          "hospital": "",
+          "hospital": "양산부산대병원",
           "people": "-",
-          "etc": "조사중"
+          "etc": "한마음창원병원 간호사(440번) 아들"
         }
       ],
       "overview": "경남",
@@ -2023,10 +2119,10 @@
           "name": "환자",
           "country": "한국",
           "woo": "",
-          "date": "2/23",
+          "date": "2/22",
           "hospital": "",
           "people": "-",
-          "etc": "조사중"
+          "etc": "신천지대구교회 관련"
         }
       ],
       "overview": "경남",
@@ -2036,13 +2132,13 @@
       "no": "440",
       "who": [
         {
-          "name": "환자",
+          "name": "여성(47세)",
           "country": "한국",
-          "woo": "",
-          "date": "2/23",
+          "woo": "한마음창원병원 폐쇄",
+          "date": "2/22",
           "hospital": "",
           "people": "-",
-          "etc": "신천지대구교회 관련"
+          "etc": "한마음창원병원 간호사"
         }
       ],
       "overview": "경남",
@@ -9157,7 +9253,7 @@
     },
     {
       "country": "경남",
-      "patient": 8,
+      "patient": 14,
       "dead": 0
     },
     {
