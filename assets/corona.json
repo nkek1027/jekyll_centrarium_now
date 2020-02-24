@@ -5268,16 +5268,16 @@
       "no": "434",
       "who": [
         {
-          "name": "환자",
+          "name": "남성",
           "country": "한국",
           "woo": "",
           "date": "2/23",
           "hospital": "",
           "people": "-",
-          "etc": "조사중"
+          "etc": "장교"
         }
       ],
-      "overview": "서울",
+      "overview": "충남",
       "contents": ""
     },
     {
@@ -11837,7 +11837,7 @@
           "etc": "13번 직장동료"
         }
       ],
-      "overview": "충남",
+      "overview": "서",
       "contents": ""
     },
     {
@@ -12013,7 +12013,7 @@
           "etc": ""
         }
       ],
-      "overview": "충남",
+      "overview": "서울",
       "contents": "퇴원"
     },
     {
