@@ -1,6 +1,22 @@
 {
   "details": [
     {
+      "no": "765",
+      "who": [
+        {
+          "name": "환자",
+          "country": "한국",
+          "woo": "",
+          "date": "2/24",
+          "hospital": "",
+          "people": "",
+          "etc": ""
+        }
+      ],
+      "overview": "대전",
+      "contents": ""
+    },
+    {
       "no": "764",
       "who": [
         {
@@ -3064,7 +3080,7 @@
           "country": "한국",
           "woo": "",
           "date": "2/22",
-          "hospital": "",
+          "hospital": "충남대병원",
           "people": "-",
           "etc": "372번 남편"
         }
@@ -6280,7 +6296,7 @@
           "country": "한국",
           "woo": "",
           "date": "2/21",
-          "hospital": "",
+          "hospital": "충남대병원",
           "people": "-",
           "etc": "대구 지인 방문"
         }
@@ -8372,13 +8388,13 @@
       "no": "241",
       "who": [
         {
-          "name": "환자",
+          "name": "여성(23세)",
           "country": "한국",
           "woo": "",
           "date": "2/22",
-          "hospital": "",
-          "people": "-",
-          "etc": "확인중"
+          "hospital": "충남대병원",
+          "people": "9",
+          "etc": "대구 지인 방문"
         }
       ],
       "overview": "대전",
