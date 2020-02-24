@@ -653,7 +653,7 @@
           "etc": ""
         }
       ],
-      "overview": "대구",
+      "overview": "경북",
       "contents": ""
     },
     {
@@ -674,22 +674,6 @@
     },
     {
       "no": "791",
-      "who": [
-        {
-          "name": "환자",
-          "country": "한국",
-          "woo": "",
-          "date": "2/24",
-          "hospital": "",
-          "people": "-",
-          "etc": ""
-        }
-      ],
-      "overview": "경북",
-      "contents": ""
-    },
-    {
-      "no": "790",
       "who": [
         {
           "name": "환자",
