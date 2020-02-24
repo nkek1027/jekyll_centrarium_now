@@ -3028,13 +3028,13 @@
       "no": "575",
       "who": [
         {
-          "name": "환자",
+          "name": "여성(61세)",
           "country": "한국",
           "woo": "",
-          "date": "2/23",
-          "hospital": "",
-          "people": "-",
-          "etc": "조사중"
+          "date": "2/22",
+          "hospital": "인천의료원",
+          "people": "4",
+          "etc": "동대구역에서 KTX이용"
         }
       ],
       "overview": "인천",
