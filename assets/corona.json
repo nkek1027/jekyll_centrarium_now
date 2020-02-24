@@ -11124,22 +11124,6 @@
       "no": "84",
       "who": [
         {
-          "name": "환자",
-          "country": "한국",
-          "woo": "",
-          "date": "2/21",
-          "hospital": "",
-          "people": "-",
-          "etc": "확인중"
-        }
-      ],
-      "overview": "대구",
-      "contents": ""
-    },
-    {
-      "no": "83",
-      "who": [
-        {
           "name": "남성(22세)",
           "country": "한국",
           "woo": "",
@@ -11150,6 +11134,22 @@
         }
       ],
       "overview": "제주",
+      "contents": ""
+    },
+    {
+      "no": "83",
+      "who": [
+        {
+          "name": "남성(76세)",
+          "country": "한국",
+          "woo": "종로구",
+          "date": "2/20",
+          "hospital": "국립중앙의료원",
+          "people": "-",
+          "etc": "6번과 접촉"
+        }
+      ],
+      "overview": "서울",
       "contents": ""
     },
     {
