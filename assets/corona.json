@@ -3012,16 +3012,16 @@
       "no": "576",
       "who": [
         {
-          "name": "환자",
+          "name": "남성(32세)",
           "country": "한국",
-          "woo": "",
+          "woo": "창원거주",
           "date": "2/23",
           "hospital": "",
           "people": "-",
-          "etc": "조사중"
+          "etc": "신천지대구교회 관련"
         }
       ],
-      "overview": "대전",
+      "overview": "경남",
       "contents": ""
     },
     {
@@ -3060,16 +3060,16 @@
       "no": "573",
       "who": [
         {
-          "name": "남성(32세)",
+          "name": "남성",
           "country": "한국",
-          "woo": "창원거주",
-          "date": "2/23",
+          "woo": "",
+          "date": "2/22",
           "hospital": "",
           "people": "-",
-          "etc": "신천지대구교회 관련"
+          "etc": "372번 남편"
         }
       ],
-      "overview": "경남",
+      "overview": "대전",
       "contents": ""
     },
     {
@@ -6228,16 +6228,16 @@
       "no": "375",
       "who": [
         {
-          "name": "남성(64세)",
+          "name": "여성(65세)",
           "country": "한국",
-          "woo": "",
+          "woo": "영등포구 거주",
           "date": "2/22",
           "hospital": "",
           "people": "-",
-          "etc": "대구 지인 방문"
+          "etc": "조사중"
         }
       ],
-      "overview": "대전",
+      "overview": "서울",
       "contents": ""
     },
     {
@@ -6276,16 +6276,16 @@
       "no": "372",
       "who": [
         {
-          "name": "여성(65세)",
+          "name": "여성",
           "country": "한국",
-          "woo": "영등포구 거주",
-          "date": "2/22",
+          "woo": "",
+          "date": "2/21",
           "hospital": "",
           "people": "-",
-          "etc": "조사중"
+          "etc": ""
         }
       ],
-      "overview": "서울",
+      "overview": "대전",
       "contents": ""
     },
     {
@@ -8378,10 +8378,10 @@
           "date": "2/22",
           "hospital": "",
           "people": "-",
-          "etc": "청도대남병원 관련"
+          "etc": "확인중"
         }
       ],
-      "overview": "대구",
+      "overview": "대전",
       "contents": ""
     },
     {
@@ -8858,10 +8858,10 @@
           "date": "2/22",
           "hospital": "",
           "people": "-",
-          "etc": "확인중"
+          "etc": "청도대남병원 관련"
         }
       ],
-      "overview": "대전",
+      "overview": "대구",
       "contents": ""
     },
     {
