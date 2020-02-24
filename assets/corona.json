@@ -1,6 +1,38 @@
 {
   "details": [
     {
+      "no": "766",
+      "who": [
+        {
+          "name": "환자",
+          "country": "한국",
+          "woo": "",
+          "date": "2/24",
+          "hospital": "",
+          "people": "-",
+          "etc": "신천지대구교회 관련"
+        }
+      ],
+      "overview": "대구",
+      "contents": ""
+    },
+    {
+      "no": "765",
+      "who": [
+        {
+          "name": "환자",
+          "country": "한국",
+          "woo": "",
+          "date": "2/24",
+          "hospital": "",
+          "people": "-",
+          "etc": "신천지대구교회 관련"
+        }
+      ],
+      "overview": "대구",
+      "contents": ""
+    },
+    {
       "no": "764",
       "who": [
         {
