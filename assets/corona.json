@@ -1,6 +1,22 @@
 {
   "details": [
     {
+      "no": "764",
+      "who": [
+        {
+          "name": "환자",
+          "country": "한국",
+          "woo": "",
+          "date": "2/24",
+          "hospital": "",
+          "people": "-",
+          "etc": "조사중"
+        }
+      ],
+      "overview": "서울",
+      "contents": ""
+    },
+    {
       "no": "763",
       "who": [
         {
