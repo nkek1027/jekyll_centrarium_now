@@ -1,54 +1,6 @@
 {
   "details": [
     {
-      "no": "766",
-      "who": [
-        {
-          "name": "환자",
-          "country": "한국",
-          "woo": "",
-          "date": "2/24",
-          "hospital": "",
-          "people": "-",
-          "etc": "신천지대구교회 관련"
-        }
-      ],
-      "overview": "대구",
-      "contents": ""
-    },
-    {
-      "no": "765",
-      "who": [
-        {
-          "name": "환자",
-          "country": "한국",
-          "woo": "",
-          "date": "2/24",
-          "hospital": "",
-          "people": "-",
-          "etc": "신천지대구교회 관련"
-        }
-      ],
-      "overview": "대구",
-      "contents": ""
-    },
-    {
-      "no": "764",
-      "who": [
-        {
-          "name": "환자",
-          "country": "한국",
-          "woo": "",
-          "date": "2/24",
-          "hospital": "",
-          "people": "-",
-          "etc": "조사중"
-        }
-      ],
-      "overview": "서울",
-      "contents": ""
-    },
-    {
       "no": "763",
       "who": [
         {
@@ -61,7 +13,7 @@
           "etc": "신천지대구교회 관련"
         }
       ],
-      "overview": "대구",
+      "overview": "서울",
       "contents": ""
     },
     {
@@ -77,7 +29,7 @@
           "etc": "신천지대구교회 관련"
         }
       ],
-      "overview": "대구",
+      "overview": "경기",
       "contents": ""
     },
     {
@@ -3069,7 +3021,7 @@
           "etc": "조사중"
         }
       ],
-      "overview": "광주",
+      "overview": "인천",
       "contents": ""
     },
     {
@@ -4605,7 +4557,7 @@
           "etc": "조사중"
         }
       ],
-      "overview": "대구",
+      "overview": "경남",
       "contents": ""
     },
     {
@@ -4621,7 +4573,7 @@
           "etc": "조사중"
         }
       ],
-      "overview": "대구",
+      "overview": "경남",
       "contents": ""
     },
     {
@@ -4637,7 +4589,7 @@
           "etc": "조사중"
         }
       ],
-      "overview": "대구",
+      "overview": "경남",
       "contents": ""
     },
     {
@@ -4685,7 +4637,7 @@
           "etc": "조사중"
         }
       ],
-      "overview": "대구",
+      "overview": "경북",
       "contents": ""
     },
     {
@@ -4701,7 +4653,7 @@
           "etc": "조사중"
         }
       ],
-      "overview": "대구",
+      "overview": "경북",
       "contents": ""
     },
     {
@@ -4717,7 +4669,7 @@
           "etc": "조사중"
         }
       ],
-      "overview": "대구",
+      "overview": "경북",
       "contents": ""
     },
     {
@@ -4733,7 +4685,7 @@
           "etc": "조사중"
         }
       ],
-      "overview": "대구",
+      "overview": "경북",
       "contents": ""
     },
     {
@@ -4749,7 +4701,7 @@
           "etc": "조사중"
         }
       ],
-      "overview": "대구",
+      "overview": "경북",
       "contents": ""
     },
     {
@@ -4765,7 +4717,7 @@
           "etc": "조사중"
         }
       ],
-      "overview": "대구",
+      "overview": "경북",
       "contents": ""
     },
     {
@@ -5325,7 +5277,7 @@
           "etc": "조사중"
         }
       ],
-      "overview": "제주",
+      "overview": "서울",
       "contents": ""
     },
     {
@@ -6212,16 +6164,16 @@
       "no": "378",
       "who": [
         {
-          "name": "남성(20대)",
+          "name": "환자",
           "country": "한국",
           "woo": "",
           "date": "2/22",
           "hospital": "",
           "people": "-",
-          "etc": "전남 장흥 소방교육 중 발생"
+          "etc": "조사중"
         }
       ],
-      "overview": "전남",
+      "overview": "강원",
       "contents": ""
     },
     {
@@ -10413,7 +10365,7 @@
           "etc": "확인중"
         }
       ],
-      "overview": "충남",
+      "overview": "강원",
       "contents": ""
     },
     {
