@@ -920,7 +920,7 @@
           "country": "한국",
           "woo": "동래구. 부산-32",
           "date": "2/24",
-          "hospital": "자택",
+          "hospital": "",
           "people": "-",
           "etc": "온천교회 관련"
         }
@@ -936,7 +936,7 @@
           "country": "한국",
           "woo": "동래. 부산-31",
           "date": "2/24",
-          "hospital": "자택",
+          "hospital": "",
           "people": "-",
           "etc": "온천교회 관련"
         }
@@ -1880,7 +1880,7 @@
           "country": "한국",
           "woo": "부산-27",
           "date": "2/24",
-          "hospital": "",
+          "hospital": "부산대병",
           "people": "",
           "etc": ""
         }
@@ -1896,7 +1896,7 @@
           "country": "한국",
           "woo": "부산-26",
           "date": "2/24",
-          "hospital": "",
+          "hospital": "부산대병",
           "people": "",
           "etc": "온천교회"
         }
@@ -1928,7 +1928,7 @@
           "country": "한국",
           "woo": "부산-24",
           "date": "2/24",
-          "hospital": "",
+          "hospital": "부산대병",
           "people": "",
           "etc": "신천지대구교회 관련"
         }
@@ -1944,7 +1944,7 @@
           "country": "한국",
           "woo": "부산-23",
           "date": "2/24",
-          "hospital": "",
+          "hospital": "부산대병",
           "people": "",
           "etc": "온천교회"
         }
@@ -1960,7 +1960,7 @@
           "country": "한국",
           "woo": "부산-22",
           "date": "2/24",
-          "hospital": "",
+          "hospital": "부산대병원",
           "people": "",
           "etc": "온천교회"
         }
@@ -2024,7 +2024,7 @@
           "country": "한국",
           "woo": "부산-18",
           "date": "2/24",
-          "hospital": "",
+          "hospital": "부산대병",
           "people": "",
           "etc": ""
         }
@@ -2040,7 +2040,7 @@
           "country": "한국",
           "woo": "부산-17",
           "date": "2/24",
-          "hospital": "",
+          "hospital": "부산대병원",
           "people": "",
           "etc": "청도대남병원 관련"
         }
@@ -5240,7 +5240,7 @@
           "country": "한국",
           "woo": "부산-15. 동래구",
           "date": "2/23",
-          "hospital": "자택귀가",
+          "hospital": "",
           "people": "0",
           "etc": "200번과 온천교회 예배 봄."
         }
@@ -7208,7 +7208,7 @@
           "country": "한국",
           "woo": "",
           "date": "2/23",
-          "hospital": "자택",
+          "hospital": "",
           "people": "-",
           "etc": "사망 후 검사 결과 양성"
         }
