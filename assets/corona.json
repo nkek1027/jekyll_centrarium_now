@@ -20,16 +20,16 @@
       "no": "892",
       "who": [
         {
-          "name": "환자",
+          "name": "남성(27세)",
           "country": "한국",
-          "woo": "",
+          "woo": "해운대구. 부산-30",
           "date": "2/24",
-          "hospital": "",
+          "hospital": "부산대병원",
           "people": "-",
-          "etc": ""
+          "etc": "온천교회 관련"
         }
       ],
-      "overview": "서울",
+      "overview": "부산",
       "contents": ""
     },
     {
@@ -45,7 +45,7 @@
           "etc": ""
         }
       ],
-      "overview": "서울",
+      "overview": "경북",
       "contents": ""
     },
     {
@@ -388,16 +388,16 @@
       "no": "869",
       "who": [
         {
-          "name": "환자",
+          "name": "여성(57세)",
           "country": "한국",
-          "woo": "",
+          "woo": "은평구",
           "date": "2/24",
-          "hospital": "",
+          "hospital": "한일병원",
           "people": "-",
           "etc": ""
         }
       ],
-      "overview": "경북",
+      "overview": "서울",
       "contents": ""
     },
     {
@@ -948,16 +948,16 @@
       "no": "834",
       "who": [
         {
-          "name": "남성(27세)",
+          "name": "남성(55세)",
           "country": "한국",
-          "woo": "해운대구. 부산-30",
-          "date": "2/24",
-          "hospital": "부산대병원",
+          "woo": "송파구",
+          "date": "2/22",
+          "hospital": "중앙대학교병원",
           "people": "-",
-          "etc": "온천교회 관련"
+          "etc": ""
         }
       ],
-      "overview": "부산",
+      "overview": "서울",
       "contents": ""
     },
     {
@@ -9534,7 +9534,7 @@
         }
       ],
       "overview": "경북",
-      "contents": ""
+      "contents": "사망"
     },
     {
       "no": "297",
