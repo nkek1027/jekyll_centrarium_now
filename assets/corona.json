@@ -61,7 +61,7 @@
           "etc": ""
         }
       ],
-      "overview": "경기",
+      "overview": "서울",
       "contents": ""
     },
     {
@@ -77,7 +77,7 @@
           "etc": ""
         }
       ],
-      "overview": "경기",
+      "overview": "서울",
       "contents": ""
     },
     {
@@ -141,7 +141,7 @@
           "etc": ""
         }
       ],
-      "overview": "경북",
+      "overview": "서울",
       "contents": ""
     },
     {
@@ -157,7 +157,7 @@
           "etc": ""
         }
       ],
-      "overview": "경북",
+      "overview": "부산",
       "contents": ""
     },
     {
@@ -173,7 +173,7 @@
           "etc": ""
         }
       ],
-      "overview": "경북",
+      "overview": "부산",
       "contents": ""
     },
     {
@@ -189,7 +189,7 @@
           "etc": ""
         }
       ],
-      "overview": "경북",
+      "overview": "부산",
       "contents": ""
     },
     {
@@ -205,7 +205,7 @@
           "etc": ""
         }
       ],
-      "overview": "경북",
+      "overview": "부산",
       "contents": ""
     },
     {
@@ -221,7 +221,7 @@
           "etc": ""
         }
       ],
-      "overview": "경북",
+      "overview": "부산",
       "contents": ""
     },
     {
@@ -237,7 +237,7 @@
           "etc": ""
         }
       ],
-      "overview": "경북",
+      "overview": "부산",
       "contents": ""
     },
     {
@@ -14298,12 +14298,12 @@
     },
     {
       "country": "서울",
-      "patient": 33,
+      "patient": 36,
       "dead": 0
     },
     {
       "country": "부산",
-      "patient": 32,
+      "patient": 38,
       "dead": 0
     },
     {
@@ -14338,7 +14338,7 @@
     },
     {
       "country": "경기",
-      "patient": 42,
+      "patient": 40,
       "dead": 0
     },
     {
@@ -14368,7 +14368,7 @@
     },
     {
       "country": "경북",
-      "patient": 231,
+      "patient": 225,
       "dead": 0
     },
     {
