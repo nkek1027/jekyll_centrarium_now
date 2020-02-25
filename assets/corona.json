@@ -253,7 +253,7 @@
           "etc": ""
         }
       ],
-      "overview": "경북",
+      "overview": "전남",
       "contents": ""
     },
     {
@@ -2061,7 +2061,7 @@
           "etc": ""
         }
       ],
-      "overview": "대전",
+      "overview": "경북",
       "contents": ""
     },
     {
@@ -14323,7 +14323,7 @@
     },
     {
       "country": "대전",
-      "patient": 4,
+      "patient": 3,
       "dead": 0
     },
     {
@@ -14343,7 +14343,7 @@
     },
     {
       "country": "강원",
-      "patient": 7,
+      "patient": 6,
       "dead": 0
     },
     {
@@ -14363,7 +14363,7 @@
     },
     {
       "country": "전남",
-      "patient": 1,
+      "patient": 2,
       "dead": 0
     },
     {
