@@ -13338,17 +13338,17 @@
     },
     {
       "country": "서울",
-      "patient": 31,
+      "patient": 33,
       "dead": 0
     },
     {
       "country": "부산",
-      "patient": 29,
+      "patient": 32,
       "dead": 0
     },
     {
       "country": "대구",
-      "patient": 483,
+      "patient": 499,
       "dead": 0
     },
     {
@@ -13378,7 +13378,7 @@
     },
     {
       "country": "경기",
-      "patient": 37,
+      "patient": 42,
       "dead": 0
     },
     {
@@ -13408,12 +13408,12 @@
     },
     {
       "country": "경북",
-      "patient": 198,
+      "patient": 231,
       "dead": 0
     },
     {
       "country": "경남",
-      "patient": 20,
+      "patient": 21,
       "dead": 0
     },
     {
