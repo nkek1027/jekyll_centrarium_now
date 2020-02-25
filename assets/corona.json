@@ -11610,27 +11610,27 @@
           "date": "2/21",
           "hospital": "",
           "people": "-",
-          "etc": "청도대남병원 관련"
+          "etc": "신천지대구교회 관련"
         }
       ],
-      "overview": "경북",
+      "overview": "대구",
       "contents": ""
     },
     {
       "no": "107",
       "who": [
         {
-          "name": "환자",
+          "name": "남성(67세)",
           "country": "한국",
           "woo": "",
           "date": "2/21",
           "hospital": "",
           "people": "-",
-          "etc": "신천지대구교회 관련"
+          "etc": "청도대남병원 관련"
         }
       ],
-      "overview": "대구",
-      "contents": ""
+      "overview": "경북",
+      "contents": "사망"
     },
     {
       "no": "106",
