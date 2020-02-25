@@ -14378,17 +14378,17 @@
     },
     {
       "country": "서울",
-      "patient": 36,
+      "patient": 40,
       "dead": 0
     },
     {
       "country": "부산",
-      "patient": 38,
+      "patient": 43,
       "dead": 0
     },
     {
       "country": "대구",
-      "patient": 499,
+      "patient": 543,
       "dead": 0
     },
     {
@@ -14408,7 +14408,7 @@
     },
     {
       "country": "울산",
-      "patient": 2,
+      "patient": 3,
       "dead": 0
     },
     {
@@ -14418,7 +14418,7 @@
     },
     {
       "country": "경기",
-      "patient": 40,
+      "patient": 42,
       "dead": 0
     },
     {
@@ -14428,12 +14428,12 @@
     },
     {
       "country": "충북",
-      "patient": 3,
+      "patient": 5,
       "dead": 0
     },
     {
       "country": "충남",
-      "patient": 1,
+      "patient": 2,
       "dead": 0
     },
     {
@@ -14448,12 +14448,12 @@
     },
     {
       "country": "경북",
-      "patient": 225,
+      "patient": 248,
       "dead": 0
     },
     {
       "country": "경남",
-      "patient": 21,
+      "patient": 23,
       "dead": 0
     },
     {
