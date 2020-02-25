@@ -8,17 +8,17 @@
     },
     {
       "country": "중국",
-      "patient": 77150,
-      "dead": 2592
+      "patient": 77658,
+      "dead": 2663
     },
     {
       "country": "홍콩",
-      "patient": 74,
+      "patient": 81,
       "dead": 2
     },
     {
       "country": "대만",
-      "patient": 26,
+      "patient": 30,
       "dead": 1
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "country": "싱가포르",
-      "patient": 89,
+      "patient": 90,
       "dead": 0
     },
     {
       "country": "일본",
-      "patient": 146,
+      "patient": 173,
       "dead": 1
     },
     {
@@ -123,8 +123,8 @@
     },
     {
       "country": "이탈리아",
-      "patient": 156,
-      "dead": 3
+      "patient": 229,
+      "dead": 6
     },
     {
       "country": "영국",
@@ -158,7 +158,7 @@
     },
     {
       "country": "기타(일본크루즈)",
-      "patient": 691,
+      "patient": 695,
       "dead": 3
     }
   ,
