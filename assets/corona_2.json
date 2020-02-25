@@ -38,7 +38,7 @@
     },
     {
       "country": "일본",
-      "patient": 173,
+      "patient": 156,
       "dead": 1
     },
     {
@@ -83,12 +83,17 @@
     },
     {
       "country": "이란",
-      "patient": 43,
-      "dead": 8
+      "patient": 61,
+      "dead": 12
     },
     {
       "country": "레바논",
       "patient": 1,
+      "dead": 0
+    },
+    {
+      "country": "쿠웨이트",
+      "patient": 5,
       "dead": 0
     },
     {
@@ -98,12 +103,12 @@
     },
     {
       "country": "미국",
-      "patient": 35,
+      "patient": 53,
       "dead": 0
     },
     {
       "country": "캐나다",
-      "patient": 9,
+      "patient": 10,
       "dead": 0
     },
     {
