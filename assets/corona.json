@@ -14373,27 +14373,27 @@
   "trends": [
     {
       "country": "전체",
-      "patient": 977,
+      "patient": 1146,
       "dead": 10
     },
     {
       "country": "서울",
-      "patient": 40,
+      "patient": 44,
       "dead": 0
     },
     {
       "country": "부산",
-      "patient": 43,
+      "patient": 51,
       "dead": 0
     },
     {
       "country": "대구",
-      "patient": 543,
+      "patient": 677,
       "dead": 0
     },
     {
       "country": "인천",
-      "patient": 2,
+      "patient": 3,
       "dead": 0
     },
     {
@@ -14418,7 +14418,7 @@
     },
     {
       "country": "경기",
-      "patient": 42,
+      "patient": 43,
       "dead": 0
     },
     {
@@ -14448,12 +14448,12 @@
     },
     {
       "country": "경북",
-      "patient": 248,
+      "patient": 267,
       "dead": 0
     },
     {
       "country": "경남",
-      "patient": 23,
+      "patient": 25,
       "dead": 0
     },
     {
