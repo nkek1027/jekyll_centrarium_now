@@ -372,8 +372,8 @@
       "no": "875",
       "who": [
         {
-          "name": "환자",
-          "country": "한국",
+          "name": "남성(36세)",
+          "country": "몽골",
           "woo": "",
           "date": "2/24",
           "hospital": "",
@@ -382,7 +382,7 @@
         }
       ],
       "overview": "경북",
-      "contents": ""
+      "contents": "사망"
     },
     {
       "no": "874",
