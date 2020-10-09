@@ -119,54 +119,54 @@
     }
   ],
   "live_url": "http://www.cdc.go.kr/linkCheck.es?mid=a21111050500",
-  "trends": [
+  "titles": [
     {
-      "country": "전체",
-      "patient": 893
+      "title": "전체",
+      "total": 893
     },
     {
-      "country": "수험생",
-      "patient": 31
+      "title": "수험생",
+      "total": 31
     },
     {
-      "country": "결혼",
-      "patient": 29
+      "title": "결혼",
+      "total": 29
     },
     {
-      "country": "출산",
-      "patient": 483
+      "title": "출산",
+      "total": 483
     },
     {
-      "country": "힘내",
-      "patient": 2
+      "title": "힘내",
+      "total": 2
     },
     {
-      "country": "겸손",
-      "patient": 9
+      "title": "겸손",
+      "total": 9
     },
     {
-      "country": "돈",
-      "patient": 4
+      "title": "돈",
+      "total": 4
     },
     {
-      "country": "사랑",
-      "patient": 2
+      "title": "사랑",
+      "total": 2
     },
     {
-      "country": "효도",
-      "patient": 1
+      "title": "효도",
+      "total": 1
     },
     {
-      "country": "자식",
-      "patient": 37
+      "title": "자식",
+      "total": 37
     },
     {
-      "country": "사춘기",
-      "patient": 7
+      "title": "사춘기",
+      "total": 7
     },
     {
-      "country": "기타",
-      "patient": 2
+      "title": "기타",
+      "total": 2
     }
   ]
 }
