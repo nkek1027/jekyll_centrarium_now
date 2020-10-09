@@ -122,63 +122,51 @@
   "trends": [
     {
       "country": "전체",
-      "patient": 893,
-      "dead": 8
+      "patient": 893
     },
     {
       "country": "수험생",
-      "patient": 31,
-      "dead": 0
+      "patient": 31
     },
     {
       "country": "결혼",
-      "patient": 29,
-      "dead": 0
+      "patient": 29
     },
     {
       "country": "출산",
-      "patient": 483,
-      "dead": 0
+      "patient": 483
     },
     {
       "country": "힘내",
-      "patient": 2,
-      "dead": 0
+      "patient": 2
     },
     {
       "country": "겸손",
-      "patient": 9,
-      "dead": 0
+      "patient": 9
     },
     {
       "country": "돈",
-      "patient": 4,
-      "dead": 0
+      "patient": 4
     },
     {
       "country": "사랑",
-      "patient": 2,
-      "dead": 0
+      "patient": 2
     },
     {
       "country": "효도",
-      "patient": 1,
-      "dead": 0
+      "patient": 1
     },
     {
       "country": "자식",
-      "patient": 37,
-      "dead": 0
+      "patient": 37
     },
     {
       "country": "사춘기",
-      "patient": 7,
-      "dead": 0
+      "patient": 7
     },
     {
       "country": "기타",
-      "patient": 2,
-      "dead": 0
+      "patient": 2
     }
   ]
 }
