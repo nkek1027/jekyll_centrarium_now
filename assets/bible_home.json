@@ -3,6 +3,22 @@
   "ko_url": "http://www.cdc.go.kr/linkCheck.es?mid=a21111050500",
   "home_images": [
     {
+      "image_url": "https://nkek1027.github.io/assets/home_verse5.png",
+      "no": 5
+    },
+     {
+      "image_url": "https://nkek1027.github.io/assets/home_verse4.png",
+      "no": 4
+    },
+     {
+      "image_url": "https://nkek1027.github.io/assets/home_verse3.png",
+      "no": 3
+    },
+     {
+      "image_url": "https://nkek1027.github.io/assets/home_verse2.png",
+      "no": 2
+    },
+     {
       "image_url": "https://nkek1027.github.io/assets/bible_title.png",
       "no": 1
     }
