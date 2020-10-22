@@ -1,7 +1,7 @@
 {
   "details": [
     {
-      "no": "111",
+      "no": "112",
       "bible": [
         {
           "title": "로마서",
@@ -11,6 +11,19 @@
         }
       ],
       "overview": "사랑",
+      "contents": ""
+    },
+    {
+      "no": "111",
+      "bible": [
+        {
+          "title": "로마서",
+          "jang": "12",
+          "jeol": "1",
+          "verse": "악에게 지지 말고 선으로 악을 이기라"
+        }
+      ],
+      "overview": "기타",
       "contents": ""
     },
     {
